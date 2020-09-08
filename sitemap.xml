@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://bus.yohan1002.com/페이지1/페이지-샘플-1/</loc><lastmod>2018-09-13T10:12:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/페이지2/페이지-서브/페이지-샘플-1/</loc><lastmod>2018-09-13T10:12:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/페이지2/페이지-서브/페이지-샘플-2/</loc><lastmod>2018-07-06T00:00:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/페이지2/페이지-서브/페이지-샘플-3/</loc><lastmod>2018-09-13T10:12:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2018/10/22/post-sample-1/</loc><lastmod>2018-10-22T09:24:15+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2018/10/22/post-sample-2/</loc><lastmod>2018-10-22T09:24:15+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2018/10/22/post-sample-3/</loc><lastmod>2018-10-22T09:24:15+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2018/10/22/post-sample-4/</loc><lastmod>2018-10-22T09:24:15+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2018/10/22/post-sample-5/</loc><lastmod>2018-10-22T09:24:15+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2015/10/12/post-sample-blade/</loc><lastmod>2018-09-13T10:12:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/posts2/posts-sample-2/post-sample-1/</loc><lastmod>2018-09-13T10:12:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/posts2/posts-sample-2/post-sample-2/</loc><lastmod>2018-09-13T10:12:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/posts2/posts-sample-2/post-sample-3/</loc><lastmod>2018-09-13T10:12:00+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/posts/1/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/category/당나귀/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/category/카테고리1/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/category/카테고리2/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/tag/태그1/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/tag/태그2/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2018/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2018/10/</loc><lastmod>2018-12-06T17:36:35+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2015/</loc><lastmod>2018-12-06T17:36:36+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/2015/10/</loc><lastmod>2018-12-06T17:36:36+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/posts2/category/카테고리1/</loc><lastmod>2018-12-06T17:36:36+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/posts2/tag/태그1/</loc><lastmod>2018-12-06T17:36:36+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/posts2/tag/태그2/</loc><lastmod>2018-12-06T17:36:36+09:00</lastmod></url>
-<url><loc>http://bus.yohan1002.com/archives/</loc><lastmod>2018-12-06T17:36:36+09:00</lastmod></url>
+<url><loc>https://cwbus.yohan1002.com/%EC%B0%BD%EC%9B%90%EC%8B%9C/%EB%B2%84%EC%8A%A4/</loc><lastmod>2020-09-08T10:53:03+09:00</lastmod></url>
+<url><loc>https://cwbus.yohan1002.com/%EC%B0%BD%EC%9B%90%EC%8B%9C/%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0/</loc><lastmod>2020-09-08T10:53:03+09:00</lastmod></url>
+<url><loc>https://cwbus.yohan1002.com/%EC%B0%BD%EC%9B%90%EC%8B%9C/%EB%B2%84%EC%8A%A4/1000/</loc><lastmod>2020-09-08T10:53:03+09:00</lastmod></url>
+<url><loc>https://cwbus.yohan1002.com/%EC%B0%BD%EC%9B%90%EC%8B%9C/%EC%A0%95%EB%A5%98%EC%86%8C/</loc><lastmod>2020-09-08T10:53:03+09:00</lastmod></url>
+<url><loc>https://cwbus.yohan1002.com/%EC%B0%BD%EC%9B%90%EC%8B%9C/%EC%A0%95%EB%A5%98%EC%86%8C/%EC%B0%BD%EC%9B%90%EC%97%AD-2/</loc><lastmod>2020-09-08T10:53:03+09:00</lastmod></url>
+<url><loc>https://cwbus.yohan1002.com/archives/</loc><lastmod>2020-09-08T11:19:45+09:00</lastmod></url>
 </urlset>
