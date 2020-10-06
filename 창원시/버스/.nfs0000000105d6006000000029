@@ -1,0 +1,1284 @@
+<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1.0">
+		<title>창원 시내버스 노선정보 - 창원시내버스</title>
+	<meta name="author" content="yohan1002@gmail.com">
+	<meta name="keywords" content="창원 시내버스, 창원 시네버스, 실시간 버스위치, 버스 도착시간, 시내버스 정류장, 시내버스 정류소, 정류장 검색, 정류소 검색, 시내버스 노선,  시네버스 노선">
+	<meta name="description" content="창원 시내버스 노선정보 노선 번호를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 1 신전 ~ 창원역 2 유등 ~ 창원역 3 윗대방 ~ 진영역 7 창원역 ~ 자여입구(회차) 8 창원역 ~ 창원역 10 대방동성아파트 ~ 북면종점 11 대방동성아파트 ~ 내봉촌 12 대방동성아파트 ~ 북면종점 13 대방동성아파트 ~ 북면종점 14 대방동성아파트 ~ 명촌 15 창원역 ~ 명촌마을 17 불모산종점 ~ 북면종점 19 소계종점 ~ STX칸1차아파트후문 20 경남대남부터미널종점 ~ 북면종점 21 경남대남부터미널종점 ~ 초소 22 경남대남부터미널종점">
+	<meta name="referrer" content="always">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="shortcut icon" type="image/x-icon" href="https://cwbus.yohan1002.com/favicon.ico"/>
+	<link rel="canonical" href="https://cwbus.yohan1002.com/창원시/버스/"/>
+		<link href="//www.googletagmanager.com" rel="dns-prefetch"/>	
+		<link href="//pagead2.googlesyndication.com" rel="dns-prefetch"/>
+	<link href="//googleads.g.doubleclick.net" rel="dns-prefetch"/>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-2939435982300342',
+			enable_page_level_ads: true
+		});
+	</script>
+		<!--[if lt IE 9]><script src="//cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
+
+	
+
+	
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+
+							<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=40563640974538c7722ebb33897ddb7a"></script>
+			
+	
+	<meta property="og:type" content="article">
+	<meta property="og:site_name" content="창원시내버스">
+	<meta property="og:title" content="창원 시내버스 노선정보">
+	<meta property="og:description" content="창원 시내버스 노선정보 노선 번호를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 1 신전 ~ 창원역 2 유등 ~ 창원역 3 윗대방 ~ 진영역 7 창원역 ~ 자여입구(회차) 8 창원역 ~ 창원역 10 대방동성아파트 ~ 북면종점 11 대방동성아파트 ~ 내봉촌 12 대방동성아파트 ~ 북면종점 13 대방동성아파트 ~ 북면종점 14 대방동성아파트 ~ 명촌 15 창원역 ~ 명촌마을 17 불모산종점 ~ 북면종점 19 소계종점 ~ STX칸1차아파트후문 20 경남대남부터미널종점 ~ 북면종점 21 경남대남부터미널종점 ~ 초소 22 경남대남부터미널종점">
+	<meta property="og:url" content="https://cwbus.yohan1002.com/창원시/버스/"/>
+	<meta property="og:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
+	
+
+	
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@">
+	<meta name="twitter:title" content="창원 시내버스 노선정보">
+	<meta name="twitter:description" content="창원 시내버스 노선정보 노선 번호를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 1 신전 ~ 창원역 2 유등 ~ 창원역 3 윗대방 ~ 진영역 7 창원역 ~ 자여입구(회차) 8 창원역 ~ 창원역 10 대방동성아파트 ~ 북면종점 11 대방동성아파트 ~ 내봉촌 12 대방동성아파트 ~ 북면종점 13 대방동성아파트 ~ 북면종점 14 대방동성아파트 ~ 명촌 15 창원역 ~ 명촌마을 17 불모산종점 ~ 북면종점 19 소계종점 ~ STX칸1차아파트후문 20 경남대남부터미널종점 ~ 북면종점 21 경남대남부터미널종점 ~ 초소 22 경남대남부터미널종점">
+	<meta property="twitter:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
+	
+
+										<link rel="apple-touch-icon" sizes="180x180" href="/res/img/icon/180.png">
+												<link rel="apple-touch-icon" sizes="76x76" href="/res/img/icon/76.png">
+												<link rel="apple-touch-icon" sizes="120x120" href="/res/img/icon/120.png">
+												<link rel="apple-touch-icon" sizes="152x152" href="/res/img/icon/152.png">
+						
+	<link rel="alternate" type="application/rss+xml" title="창원시내버스" href="https://cwbus.yohan1002.com/atom.xml"/>
+
+			<link href="/res/css/min/81bf7b3b628a318e28769813ed8b7d79.css" type="text/css" rel="stylesheet" />
+
+	
+			
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149589982-6"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-149589982-6');
+		</script>
+	
+	</head>
+<body>
+<header class="top">
+	<div class="site-profile clearfix">
+		<a href="https://cwbus.yohan1002.com" title="창원시내버스 홈페이지로 이동"><img src="/res/img/icon/icon.png" width="50" height="50" alt="창원시내버스"></a>
+		<h1><a href="https://cwbus.yohan1002.com" title="창원시내버스 홈페이지로 이동">창원시내버스</a></h1>
+					<p>창원 시내버스 노선, 정류소 실시간 도착정보</p>
+				<button type="button" id="btn-slide"></button>
+	</div>
+</header>
+<section class="main-body clearfix">
+<div class="main-box">
+	<section id="main-panel">
+			
+	<article id="article" class="article hentry">
+		<!--
+		<div class="title">
+			<h2 class="entry-title">창원 시내버스 노선정보</h2>
+						<time class="published hide" datetime="2020-07-13 17:01:42">2020.07.13. 17:01</time>
+			<time class="updated hide" datetime="2020-09-08 10:53:03">2020.09.08. 10:53</time>
+			<span class="vcard author hide"><span class="fn">yohan1002@gmail.com</span></span>
+		</div>
+		-->
+		<div class="markdown-body entry-content"><section class="main">
+		
+	<input type="hidden" id="cityCode" name="cityCode" value="38010" />
+
+	<div class="tabs">
+		<div class='tabs-menu'>
+	<div class='ttl'>
+		<header>
+			<h2>창원 시내버스 노선정보</h2>
+							<h4>노선 번호를 선택하세요</h4>
+			
+			<div class='actions'>
+				
+							</div>
+		</header>
+
+		<ul class='clearfix menus'>
+							<li class='tab  active '><a href='/창원시/버스/'>버스노선</a></li>
+							<li class='tab '><a href='/창원시/정류소/'>실시간 도착정보</a></li>
+							<li class='tab '><a href='/창원시/즐겨찾기/'>즐겨찾기</a></li>
+					</ul>
+	</div>
+</div>		<div class="tabs-content">
+			<div class="searchBox">
+				<div class="searchInput">
+					<input type="text" id="inputSearch" name="inputSearch" class="inputSearch" placeholder="버스번호를 입력하세요" />
+				</div>
+			</div>
+			<ul class="clearfix list">
+									<li class="item" data-text="1">
+						<a class="box-link" href="/창원시/버스/1/" title="창원시 시내버스 1번 노선안내 마을">
+							1
+							<small class="">신전 ~ 창원역</small>
+						</a>
+					</li>
+									<li class="item" data-text="2">
+						<a class="box-link" href="/창원시/버스/2/" title="창원시 시내버스 2번 노선안내 마을">
+							2
+							<small class="">유등 ~ 창원역</small>
+						</a>
+					</li>
+									<li class="item" data-text="3">
+						<a class="box-link" href="/창원시/버스/3/" title="창원시 시내버스 3번 노선안내 지선">
+							3
+							<small class="">윗대방 ~ 진영역</small>
+						</a>
+					</li>
+									<li class="item" data-text="7">
+						<a class="box-link" href="/창원시/버스/7/" title="창원시 시내버스 7번 노선안내 마을">
+							7
+							<small class="">창원역 ~ 자여입구(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="8">
+						<a class="box-link" href="/창원시/버스/8/" title="창원시 시내버스 8번 노선안내 마을">
+							8
+							<small class="">창원역 ~ 창원역</small>
+						</a>
+					</li>
+									<li class="item" data-text="10">
+						<a class="box-link" href="/창원시/버스/10/" title="창원시 시내버스 10번 노선안내 지선">
+							10
+							<small class="">대방동성아파트 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="11">
+						<a class="box-link" href="/창원시/버스/11/" title="창원시 시내버스 11번 노선안내 지선">
+							11
+							<small class="">대방동성아파트 ~ 내봉촌</small>
+						</a>
+					</li>
+									<li class="item" data-text="12">
+						<a class="box-link" href="/창원시/버스/12/" title="창원시 시내버스 12번 노선안내 지선">
+							12
+							<small class="">대방동성아파트 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="13">
+						<a class="box-link" href="/창원시/버스/13/" title="창원시 시내버스 13번 노선안내 지선">
+							13
+							<small class="">대방동성아파트 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="14">
+						<a class="box-link" href="/창원시/버스/14/" title="창원시 시내버스 14번 노선안내 지선">
+							14
+							<small class="">대방동성아파트 ~ 명촌</small>
+						</a>
+					</li>
+									<li class="item" data-text="15">
+						<a class="box-link" href="/창원시/버스/15/" title="창원시 시내버스 15번 노선안내 지선">
+							15
+							<small class="">창원역 ~ 명촌마을</small>
+						</a>
+					</li>
+									<li class="item" data-text="17">
+						<a class="box-link" href="/창원시/버스/17/" title="창원시 시내버스 17번 노선안내 지선">
+							17
+							<small class="">불모산종점 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="19">
+						<a class="box-link" href="/창원시/버스/19/" title="창원시 시내버스 19번 노선안내 간선">
+							19
+							<small class="">소계종점 ~ STX칸1차아파트후문</small>
+						</a>
+					</li>
+									<li class="item" data-text="20">
+						<a class="box-link" href="/창원시/버스/20/" title="창원시 시내버스 20번 노선안내 지선">
+							20
+							<small class="">경남대남부터미널종점 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="21">
+						<a class="box-link" href="/창원시/버스/21/" title="창원시 시내버스 21번 노선안내 지선">
+							21
+							<small class="">경남대남부터미널종점 ~ 초소</small>
+						</a>
+					</li>
+									<li class="item" data-text="22">
+						<a class="box-link" href="/창원시/버스/22/" title="창원시 시내버스 22번 노선안내 지선">
+							22
+							<small class="">경남대남부터미널종점 ~ 명촌</small>
+						</a>
+					</li>
+									<li class="item" data-text="23">
+						<a class="box-link" href="/창원시/버스/23/" title="창원시 시내버스 23번 노선안내 지선">
+							23
+							<small class="">경남대남부터미널종점 ~ 남백</small>
+						</a>
+					</li>
+									<li class="item" data-text="24">
+						<a class="box-link" href="/창원시/버스/24/" title="창원시 시내버스 24번 노선안내 지선">
+							24
+							<small class="">경남대남부터미널종점 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="27">
+						<a class="box-link" href="/창원시/버스/27/" title="창원시 시내버스 27번 노선안내 지선">
+							27
+							<small class="">가포고등학교 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="29">
+						<a class="box-link" href="/창원시/버스/29/" title="창원시 시내버스 29번 노선안내 지선">
+							29
+							<small class="">경남대남부터미널종점 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="30">
+						<a class="box-link" href="/창원시/버스/30/" title="창원시 시내버스 30번 노선안내 지선">
+							30
+							<small class="">대방동성아파트 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="31">
+						<a class="box-link" href="/창원시/버스/31/" title="창원시 시내버스 31번 노선안내 지선">
+							31
+							<small class="">대방동성아파트 ~ 본포마을회관</small>
+						</a>
+					</li>
+									<li class="item" data-text="32">
+						<a class="box-link" href="/창원시/버스/32/" title="창원시 시내버스 32번 노선안내 지선">
+							32
+							<small class="">대방동성아파트 ~ 상리</small>
+						</a>
+					</li>
+									<li class="item" data-text="33">
+						<a class="box-link" href="/창원시/버스/33/" title="창원시 시내버스 33번 노선안내 지선">
+							33
+							<small class="">무점종점 ~ 북면종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="34">
+						<a class="box-link" href="/창원시/버스/34/" title="창원시 시내버스 34번 노선안내 지선">
+							34
+							<small class="">대방동성아파트 ~ 무점종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="35">
+						<a class="box-link" href="/창원시/버스/35/" title="창원시 시내버스 35번 노선안내 지선">
+							35
+							<small class="">대방동성아파트 ~ 진영종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="36">
+						<a class="box-link" href="/창원시/버스/36/" title="창원시 시내버스 36번 노선안내 지선">
+							36
+							<small class="">창원역 ~ 유등</small>
+						</a>
+					</li>
+									<li class="item" data-text="37">
+						<a class="box-link" href="/창원시/버스/37/" title="창원시 시내버스 37번 노선안내 지선">
+							37
+							<small class="">가술정류장 ~ 우성아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="40">
+						<a class="box-link" href="/창원시/버스/40/" title="창원시 시내버스 40번 노선안내 지선">
+							40
+							<small class="">경남대남부터미널종점 ~ 남모산종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="41">
+						<a class="box-link" href="/창원시/버스/41/" title="창원시 시내버스 41번 노선안내 지선">
+							41
+							<small class="">경남대남부터미널종점 ~ 본포마을회관</small>
+						</a>
+					</li>
+									<li class="item" data-text="42">
+						<a class="box-link" href="/창원시/버스/42/" title="창원시 시내버스 42번 노선안내 지선">
+							42
+							<small class="">경남대남부터미널종점 ~ 송정종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="44">
+						<a class="box-link" href="/창원시/버스/44/" title="창원시 시내버스 44번 노선안내 지선">
+							44
+							<small class="">경남대남부터미널종점 ~ 무점종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="45">
+						<a class="box-link" href="/창원시/버스/45/" title="창원시 시내버스 45번 노선안내 지선">
+							45
+							<small class="">경남대남부터미널종점 ~ 진영종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="46">
+						<a class="box-link" href="/창원시/버스/46/" title="창원시 시내버스 46번 노선안내 지선">
+							46
+							<small class="">경남대남부터미널종점 ~ 용전</small>
+						</a>
+					</li>
+									<li class="item" data-text="49">
+						<a class="box-link" href="/창원시/버스/49/" title="창원시 시내버스 49번 노선안내 지선">
+							49
+							<small class="">경남대남부터미널종점 ~ 유등종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="50">
+						<a class="box-link" href="/창원시/버스/50/" title="창원시 시내버스 50번 노선안내 지선">
+							50
+							<small class="">월영아파트종점 ~ 안계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="51">
+						<a class="box-link" href="/창원시/버스/51/" title="창원시 시내버스 51번 노선안내 지선">
+							51
+							<small class="">월영아파트종점 ~ 신목종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="53">
+						<a class="box-link" href="/창원시/버스/53/" title="창원시 시내버스 53번 노선안내 지선">
+							53
+							<small class="">월영아파트종점 ~ 안성종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="54">
+						<a class="box-link" href="/창원시/버스/54/" title="창원시 시내버스 54번 노선안내 지선">
+							54
+							<small class="">월영아파트종점 ~ 마산대학교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="58">
+						<a class="box-link" href="/창원시/버스/58/" title="창원시 시내버스 58번 노선안내 지선">
+							58
+							<small class="">일동한신아파트 ~ 창원대학교입구</small>
+						</a>
+					</li>
+									<li class="item" data-text="58-9">
+						<a class="box-link" href="/창원시/버스/58-9/" title="창원시 시내버스 58-9번 노선안내 지선">
+							58-9
+							<small class="">일동한신아파트 ~ 창원대학교입구</small>
+						</a>
+					</li>
+									<li class="item" data-text="59">
+						<a class="box-link" href="/창원시/버스/59/" title="창원시 시내버스 59번 노선안내 지선">
+							59
+							<small class="">일동한신아파트 ~ 창원대학교입구</small>
+						</a>
+					</li>
+									<li class="item" data-text="59-9">
+						<a class="box-link" href="/창원시/버스/59-9/" title="창원시 시내버스 59-9번 노선안내 지선">
+							59-9
+							<small class="">일동한신아파트 ~ 창원대학교입구</small>
+						</a>
+					</li>
+									<li class="item" data-text="60">
+						<a class="box-link" href="/창원시/버스/60/" title="창원시 시내버스 60번 노선안내 지선">
+							60
+							<small class="">마산역종점 ~ 옥계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="61">
+						<a class="box-link" href="/창원시/버스/61/" title="창원시 시내버스 61번 노선안내 지선">
+							61
+							<small class="">마산역종점 ~ 저도비치로드(회차지)</small>
+						</a>
+					</li>
+									<li class="item" data-text="62">
+						<a class="box-link" href="/창원시/버스/62/" title="창원시 시내버스 62번 노선안내 지선">
+							62
+							<small class="">마산역종점 ~ 원전종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="63">
+						<a class="box-link" href="/창원시/버스/63/" title="창원시 시내버스 63번 노선안내 지선">
+							63
+							<small class="">유니시티2단지 ~ 로봇랜드</small>
+						</a>
+					</li>
+									<li class="item" data-text="63-9">
+						<a class="box-link" href="/창원시/버스/63-9/" title="창원시 시내버스 63-9번 노선안내 지선">
+							63-9
+							<small class="">유니시티2단지 ~ 명주</small>
+						</a>
+					</li>
+									<li class="item" data-text="64">
+						<a class="box-link" href="/창원시/버스/64/" title="창원시 시내버스 64번 노선안내 지선">
+							64
+							<small class="">마산역종점 ~ 명주마을</small>
+						</a>
+					</li>
+									<li class="item" data-text="64-9">
+						<a class="box-link" href="/창원시/버스/64-9/" title="창원시 시내버스 64-9번 노선안내 지선">
+							64-9
+							<small class="">마산역종점 ~ 명주마을</small>
+						</a>
+					</li>
+									<li class="item" data-text="65">
+						<a class="box-link" href="/창원시/버스/65/" title="창원시 시내버스 65번 노선안내 지선">
+							65
+							<small class="">유니시티2단지 ~ 명주마을</small>
+						</a>
+					</li>
+									<li class="item" data-text="65-9">
+						<a class="box-link" href="/창원시/버스/65-9/" title="창원시 시내버스 65-9번 노선안내 지선">
+							65-9
+							<small class="">유니시티2단지 ~ 로봇랜드</small>
+						</a>
+					</li>
+									<li class="item" data-text="70">
+						<a class="box-link" href="/창원시/버스/70/" title="창원시 시내버스 70번 노선안내 지선">
+							70
+							<small class="">진동환승센타 ~ 창원역</small>
+						</a>
+					</li>
+									<li class="item" data-text="71">
+						<a class="box-link" href="/창원시/버스/71/" title="창원시 시내버스 71번 노선안내 지선">
+							71
+							<small class="">진동환승센타 ~ 창원역</small>
+						</a>
+					</li>
+									<li class="item" data-text="72">
+						<a class="box-link" href="/창원시/버스/72/" title="창원시 시내버스 72번 노선안내 지선">
+							72
+							<small class="">마산역종점 ~ 대현종점.용광사</small>
+						</a>
+					</li>
+									<li class="item" data-text="72-1">
+						<a class="box-link" href="/창원시/버스/72-1/" title="창원시 시내버스 72-1번 노선안내 지선">
+							72-1
+							<small class="">진동환승센타 ~ 대현종점.용광사</small>
+						</a>
+					</li>
+									<li class="item" data-text="72-9">
+						<a class="box-link" href="/창원시/버스/72-9/" title="창원시 시내버스 72-9번 노선안내 지선">
+							72-9
+							<small class="">진동환승센타 ~ 대현종점.용광사</small>
+						</a>
+					</li>
+									<li class="item" data-text="73">
+						<a class="box-link" href="/창원시/버스/73/" title="창원시 시내버스 73번 노선안내 지선">
+							73
+							<small class="">마산역종점 ~ 서북동</small>
+						</a>
+					</li>
+									<li class="item" data-text="73-1">
+						<a class="box-link" href="/창원시/버스/73-1/" title="창원시 시내버스 73-1번 노선안내 지선">
+							73-1
+							<small class="">월안마을 ~ 진동환승센타(종점)</small>
+						</a>
+					</li>
+									<li class="item" data-text="74">
+						<a class="box-link" href="/창원시/버스/74/" title="창원시 시내버스 74번 노선안내 지선">
+							74
+							<small class="">마산역종점 ~ 정곡종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="74-1">
+						<a class="box-link" href="/창원시/버스/74-1/" title="창원시 시내버스 74-1번 노선안내 지선">
+							74-1
+							<small class="">진동환승센타 ~ 정곡종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="75">
+						<a class="box-link" href="/창원시/버스/75/" title="창원시 시내버스 75번 노선안내 지선">
+							75
+							<small class="">마산역종점 ~ 상평종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="75-1">
+						<a class="box-link" href="/창원시/버스/75-1/" title="창원시 시내버스 75-1번 노선안내 지선">
+							75-1
+							<small class="">둔덕종점 ~ 진동환승센타(종점)</small>
+						</a>
+					</li>
+									<li class="item" data-text="76">
+						<a class="box-link" href="/창원시/버스/76/" title="창원시 시내버스 76번 노선안내 지선">
+							76
+							<small class="">마산역종점 ~ 둔덕종점(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="77">
+						<a class="box-link" href="/창원시/버스/77/" title="창원시 시내버스 77번 노선안내 지선">
+							77
+							<small class="">마산역종점 ~ 시락정곡종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="77-1">
+						<a class="box-link" href="/창원시/버스/77-1/" title="창원시 시내버스 77-1번 노선안내 지선">
+							77-1
+							<small class="">진동환승센타 ~ 시락정곡종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="78">
+						<a class="box-link" href="/창원시/버스/78/" title="창원시 시내버스 78번 노선안내 지선">
+							78
+							<small class="">마산역종점 ~ 선두종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="80">
+						<a class="box-link" href="/창원시/버스/80/" title="창원시 시내버스 80번 노선안내 지선">
+							80
+							<small class="">진동환승센타 ~ 창원역</small>
+						</a>
+					</li>
+									<li class="item" data-text="97">
+						<a class="box-link" href="/창원시/버스/97/" title="창원시 시내버스 97번 노선안내 지선">
+							97
+							<small class="">일동한신아파트 ~ 창원대학교입구</small>
+						</a>
+					</li>
+									<li class="item" data-text="97-1">
+						<a class="box-link" href="/창원시/버스/97-1/" title="창원시 시내버스 97-1번 노선안내 지선">
+							97-1
+							<small class="">갑오마을 ~ 갑오마을</small>
+						</a>
+					</li>
+									<li class="item" data-text="98">
+						<a class="box-link" href="/창원시/버스/98/" title="창원시 시내버스 98번 노선안내 지선">
+							98
+							<small class="">일동한신아파트 ~ 창원대학교입구</small>
+						</a>
+					</li>
+									<li class="item" data-text="100">
+						<a class="box-link" href="/창원시/버스/100/" title="창원시 시내버스 100번 노선안내 간선">
+							100
+							<small class="">해운중학교종점 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="101">
+						<a class="box-link" href="/창원시/버스/101/" title="창원시 시내버스 101번 노선안내 간선">
+							101
+							<small class="">월영아파트종점 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="102">
+						<a class="box-link" href="/창원시/버스/102/" title="창원시 시내버스 102번 노선안내 간선">
+							102
+							<small class="">월영아파트종점 ~ 불모산종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="103">
+						<a class="box-link" href="/창원시/버스/103/" title="창원시 시내버스 103번 노선안내 간선">
+							103
+							<small class="">대방동성아파트 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="105">
+						<a class="box-link" href="/창원시/버스/105/" title="창원시 시내버스 105번 노선안내 간선">
+							105
+							<small class="">월영아파트종점 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="106">
+						<a class="box-link" href="/창원시/버스/106/" title="창원시 시내버스 106번 노선안내 간선">
+							106
+							<small class="">해운중학교종점 ~ 불모산종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="107">
+						<a class="box-link" href="/창원시/버스/107/" title="창원시 시내버스 107번 노선안내 간선">
+							107
+							<small class="">월영아파트종점 ~ 불모산종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="108">
+						<a class="box-link" href="/창원시/버스/108/" title="창원시 시내버스 108번 노선안내 간선">
+							108
+							<small class="">월영아파트종점 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="109">
+						<a class="box-link" href="/창원시/버스/109/" title="창원시 시내버스 109번 노선안내 간선">
+							109
+							<small class="">월영아파트종점 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="110">
+						<a class="box-link" href="/창원시/버스/110/" title="창원시 시내버스 110번 노선안내 간선">
+							110
+							<small class="">청솔아파트종점 ~ 안계초등학교</small>
+						</a>
+					</li>
+									<li class="item" data-text="111">
+						<a class="box-link" href="/창원시/버스/111/" title="창원시 시내버스 111번 노선안내 간선">
+							111
+							<small class="">마산대학교종점 ~ 대방동성아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="112">
+						<a class="box-link" href="/창원시/버스/112/" title="창원시 시내버스 112번 노선안내 간선">
+							112
+							<small class="">안계초등학교 ~ 청솔아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="113">
+						<a class="box-link" href="/창원시/버스/113/" title="창원시 시내버스 113번 노선안내 간선">
+							113
+							<small class="">평성종점 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="115">
+						<a class="box-link" href="/창원시/버스/115/" title="창원시 시내버스 115번 노선안내 간선">
+							115
+							<small class="">대방동성아파트 ~ 평성종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="116">
+						<a class="box-link" href="/창원시/버스/116/" title="창원시 시내버스 116번 노선안내 간선">
+							116
+							<small class="">대방동종점 ~ 마산대학교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="122">
+						<a class="box-link" href="/창원시/버스/122/" title="창원시 시내버스 122번 노선안내 간선">
+							122
+							<small class="">대방동성아파트 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="140">
+						<a class="box-link" href="/창원시/버스/140/" title="창원시 시내버스 140번 노선안내 지선">
+							140
+							<small class="">설창 ~ 마산시외버스터미널</small>
+						</a>
+					</li>
+									<li class="item" data-text="150">
+						<a class="box-link" href="/창원시/버스/150/" title="창원시 시내버스 150번 노선안내 간선">
+							150
+							<small class="">인의동종점 ~ 창원대학교 종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="151">
+						<a class="box-link" href="/창원시/버스/151/" title="창원시 시내버스 151번 노선안내 간선">
+							151
+							<small class="">장천동.이순신리더쉽국제센터 ~ 종합터미널</small>
+						</a>
+					</li>
+									<li class="item" data-text="155">
+						<a class="box-link" href="/창원시/버스/155/" title="창원시 시내버스 155번 노선안내 간선">
+							155
+							<small class="">장천동(종점) ~ 태광주유소(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="155-1">
+						<a class="box-link" href="/창원시/버스/155-1/" title="창원시 시내버스 155-1번 노선안내 간선">
+							155-1
+							<small class="">중흥S클래스 ~ 태광주유소(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="160">
+						<a class="box-link" href="/창원시/버스/160/" title="창원시 시내버스 160번 노선안내 간선">
+							160
+							<small class="">인의동종점 ~ 덕동공영차고지</small>
+						</a>
+					</li>
+									<li class="item" data-text="162">
+						<a class="box-link" href="/창원시/버스/162/" title="창원시 시내버스 162번 노선안내 간선">
+							162
+							<small class="">인의동종점 ~ 소계입구</small>
+						</a>
+					</li>
+									<li class="item" data-text="163">
+						<a class="box-link" href="/창원시/버스/163/" title="창원시 시내버스 163번 노선안내 간선">
+							163
+							<small class="">덕동공영차고지 ~ 벽산솔렌스힐아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="164">
+						<a class="box-link" href="/창원시/버스/164/" title="창원시 시내버스 164번 노선안내 간선">
+							164
+							<small class="">덕동공영차고지 ~ 장천동(종점)</small>
+						</a>
+					</li>
+									<li class="item" data-text="170">
+						<a class="box-link" href="/창원시/버스/170/" title="창원시 시내버스 170번 노선안내 지선">
+							170
+							<small class="">창원대학교 종점 ~ 장유고등학교</small>
+						</a>
+					</li>
+									<li class="item" data-text="210">
+						<a class="box-link" href="/창원시/버스/210/" title="창원시 시내버스 210번 노선안내 지선">
+							210
+							<small class="">대방동성아파트 ~ 성산구청.성주동마을도서관</small>
+						</a>
+					</li>
+									<li class="item" data-text="211">
+						<a class="box-link" href="/창원시/버스/211/" title="창원시 시내버스 211번 노선안내 지선">
+							211
+							<small class="">대방동성아파트 ~ 안남중학교</small>
+						</a>
+					</li>
+									<li class="item" data-text="212">
+						<a class="box-link" href="/창원시/버스/212/" title="창원시 시내버스 212번 노선안내 지선">
+							212
+							<small class="">청솔아파트종점 ~ 소계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="213">
+						<a class="box-link" href="/창원시/버스/213/" title="창원시 시내버스 213번 노선안내 지선">
+							213
+							<small class="">불모산종점 ~ 소계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="214">
+						<a class="box-link" href="/창원시/버스/214/" title="창원시 시내버스 214번 노선안내 지선">
+							214
+							<small class="">불모산종점 ~ 웅남소방파출소</small>
+						</a>
+					</li>
+									<li class="item" data-text="216">
+						<a class="box-link" href="/창원시/버스/216/" title="창원시 시내버스 216번 노선안내 지선">
+							216
+							<small class="">대방동종점 ~ 석교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="220">
+						<a class="box-link" href="/창원시/버스/220/" title="창원시 시내버스 220번 노선안내 지선">
+							220
+							<small class="">창원중앙역 ~ 창원중앙역(종점)</small>
+						</a>
+					</li>
+									<li class="item" data-text="221">
+						<a class="box-link" href="/창원시/버스/221/" title="창원시 시내버스 221번 노선안내 지선">
+							221
+							<small class="">창원중앙역 ~ 창원중앙역(종점)</small>
+						</a>
+					</li>
+									<li class="item" data-text="240">
+						<a class="box-link" href="/창원시/버스/240/" title="창원시 시내버스 240번 노선안내 지선">
+							240
+							<small class="">평성종점 ~ 수곡종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="250">
+						<a class="box-link" href="/창원시/버스/250/" title="창원시 시내버스 250번 노선안내 지선">
+							250
+							<small class="">덕동공영차고지 ~ 블루밍아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="251">
+						<a class="box-link" href="/창원시/버스/251/" title="창원시 시내버스 251번 노선안내 지선">
+							251
+							<small class="">덕동공영차고지 ~ 안계초등학교</small>
+						</a>
+					</li>
+									<li class="item" data-text="252">
+						<a class="box-link" href="/창원시/버스/252/" title="창원시 시내버스 252번 노선안내 지선">
+							252
+							<small class="">덕동공영차고지 ~ 용담종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="252-9">
+						<a class="box-link" href="/창원시/버스/252-9/" title="창원시 시내버스 252-9번 노선안내 지선">
+							252-9
+							<small class="">덕동공영차고지 ~ 수곡종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="253">
+						<a class="box-link" href="/창원시/버스/253/" title="창원시 시내버스 253번 노선안내 지선">
+							253
+							<small class="">덕동공영차고지 ~ 블루밍아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="254">
+						<a class="box-link" href="/창원시/버스/254/" title="창원시 시내버스 254번 노선안내 지선">
+							254
+							<small class="">덕동공영차고지 ~ 마산대학교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="255">
+						<a class="box-link" href="/창원시/버스/255/" title="창원시 시내버스 255번 노선안내 지선">
+							255
+							<small class="">덕동공영차고지 ~ 평성종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="256">
+						<a class="box-link" href="/창원시/버스/256/" title="창원시 시내버스 256번 노선안내 지선">
+							256
+							<small class="">가포고등학교 ~ 평성종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="257">
+						<a class="box-link" href="/창원시/버스/257/" title="창원시 시내버스 257번 노선안내 지선">
+							257
+							<small class="">덕동공영차고지 ~ 석교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="258">
+						<a class="box-link" href="/창원시/버스/258/" title="창원시 시내버스 258번 노선안내 지선">
+							258
+							<small class="">덕동공영차고지 ~ 마산대학교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="259">
+						<a class="box-link" href="/창원시/버스/259/" title="창원시 시내버스 259번 노선안내 지선">
+							259
+							<small class="">덕동공영차고지 ~ 평성종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="260">
+						<a class="box-link" href="/창원시/버스/260/" title="창원시 시내버스 260번 노선안내 지선">
+							260
+							<small class="">수정종점 ~ 소계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="261">
+						<a class="box-link" href="/창원시/버스/261/" title="창원시 시내버스 261번 노선안내 지선">
+							261
+							<small class="">월영아파트종점 ~ 소계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="262">
+						<a class="box-link" href="/창원시/버스/262/" title="창원시 시내버스 262번 노선안내 지선">
+							262
+							<small class="">덕동공영차고지 ~ 소계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="263">
+						<a class="box-link" href="/창원시/버스/263/" title="창원시 시내버스 263번 노선안내 지선">
+							263
+							<small class="">수정종점 ~ 소계종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="265">
+						<a class="box-link" href="/창원시/버스/265/" title="창원시 시내버스 265번 노선안내 지선">
+							265
+							<small class="">월영아파트종점 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="266">
+						<a class="box-link" href="/창원시/버스/266/" title="창원시 시내버스 266번 노선안내 지선">
+							266
+							<small class="">월영아파트종점 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="270">
+						<a class="box-link" href="/창원시/버스/270/" title="창원시 시내버스 270번 노선안내 지선">
+							270
+							<small class="">합성동무학아파트 ~ 합성동무학아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="301">
+						<a class="box-link" href="/창원시/버스/301/" title="창원시 시내버스 301번 노선안내 지선">
+							301
+							<small class="">속천종점 ~ 녹수아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="302">
+						<a class="box-link" href="/창원시/버스/302/" title="창원시 시내버스 302번 노선안내 지선">
+							302
+							<small class="">속천종점 ~ 행암동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="302-1">
+						<a class="box-link" href="/창원시/버스/302-1/" title="창원시 시내버스 302-1번 노선안내 지선">
+							302-1
+							<small class="">속천종점 ~ 수치</small>
+						</a>
+					</li>
+									<li class="item" data-text="302-2">
+						<a class="box-link" href="/창원시/버스/302-2/" title="창원시 시내버스 302-2번 노선안내 지선">
+							302-2
+							<small class="">속천어촌계 ~ 학개마을</small>
+						</a>
+					</li>
+									<li class="item" data-text="303">
+						<a class="box-link" href="/창원시/버스/303/" title="창원시 시내버스 303번 노선안내 지선">
+							303
+							<small class="">속천종점 ~ 시티프라디움2차</small>
+						</a>
+					</li>
+									<li class="item" data-text="303-1">
+						<a class="box-link" href="/창원시/버스/303-1/" title="창원시 시내버스 303-1번 노선안내 지선">
+							303-1
+							<small class="">속천종점 ~ 시티프라디움2차</small>
+						</a>
+					</li>
+									<li class="item" data-text="303-2">
+						<a class="box-link" href="/창원시/버스/303-2/" title="창원시 시내버스 303-2번 노선안내 지선">
+							303-2
+							<small class="">속천종점 ~ 시티프라디움2차</small>
+						</a>
+					</li>
+									<li class="item" data-text="303-3">
+						<a class="box-link" href="/창원시/버스/303-3/" title="창원시 시내버스 303-3번 노선안내 지선">
+							303-3
+							<small class="">속천종점 ~ 시티프라디움2차</small>
+						</a>
+					</li>
+									<li class="item" data-text="305">
+						<a class="box-link" href="/창원시/버스/305/" title="창원시 시내버스 305번 노선안내 지선">
+							305
+							<small class="">속천종점 ~ 부영4단지</small>
+						</a>
+					</li>
+									<li class="item" data-text="305-1">
+						<a class="box-link" href="/창원시/버스/305-1/" title="창원시 시내버스 305-1번 노선안내 지선">
+							305-1
+							<small class="">속천종점 ~ 속천종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="305-2">
+						<a class="box-link" href="/창원시/버스/305-2/" title="창원시 시내버스 305-2번 노선안내 지선">
+							305-2
+							<small class="">속천종점 ~ 부영4단지</small>
+						</a>
+					</li>
+									<li class="item" data-text="306">
+						<a class="box-link" href="/창원시/버스/306/" title="창원시 시내버스 306번 노선안내 지선">
+							306
+							<small class="">속천종점 ~ 세스페데스공원</small>
+						</a>
+					</li>
+									<li class="item" data-text="306-1">
+						<a class="box-link" href="/창원시/버스/306-1/" title="창원시 시내버스 306-1번 노선안내 지선">
+							306-1
+							<small class="">속천종점 ~ 세스페데스공원</small>
+						</a>
+					</li>
+									<li class="item" data-text="307">
+						<a class="box-link" href="/창원시/버스/307/" title="창원시 시내버스 307번 노선안내 지선">
+							307
+							<small class="">속천종점 ~ 녹수아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="309">
+						<a class="box-link" href="/창원시/버스/309/" title="창원시 시내버스 309번 노선안내 지선">
+							309
+							<small class="">진해루 ~ 진해루</small>
+						</a>
+					</li>
+									<li class="item" data-text="315">
+						<a class="box-link" href="/창원시/버스/315/" title="창원시 시내버스 315번 노선안내 지선">
+							315
+							<small class="">속천종점 ~ 용원종점(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="315-1">
+						<a class="box-link" href="/창원시/버스/315-1/" title="창원시 시내버스 315-1번 노선안내 지선">
+							315-1
+							<small class="">속천종점 ~ 용원종점(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="315-2">
+						<a class="box-link" href="/창원시/버스/315-2/" title="창원시 시내버스 315-2번 노선안내 지선">
+							315-2
+							<small class="">속천종점 ~ 용원종점(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="317">
+						<a class="box-link" href="/창원시/버스/317/" title="창원시 시내버스 317번 노선안내 지선">
+							317
+							<small class="">속천종점 ~ 장천동(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="330">
+						<a class="box-link" href="/창원시/버스/330/" title="창원시 시내버스 330번 노선안내 간선">
+							330
+							<small class="">웅천고등학교 ~ 남문지구(임시)</small>
+						</a>
+					</li>
+									<li class="item" data-text="350">
+						<a class="box-link" href="/창원시/버스/350/" title="창원시 시내버스 350번 노선안내 지선">
+							350
+							<small class="">수도마을 ~ 삼포</small>
+						</a>
+					</li>
+									<li class="item" data-text="351">
+						<a class="box-link" href="/창원시/버스/351/" title="창원시 시내버스 351번 노선안내 지선">
+							351
+							<small class="">대장동종점 ~ 대장동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="351-1">
+						<a class="box-link" href="/창원시/버스/351-1/" title="창원시 시내버스 351-1번 노선안내 지선">
+							351-1
+							<small class="">대장동종점 ~ 대장동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="352">
+						<a class="box-link" href="/창원시/버스/352/" title="창원시 시내버스 352번 노선안내 지선">
+							352
+							<small class="">부암마을 ~ 주포종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="353">
+						<a class="box-link" href="/창원시/버스/353/" title="창원시 시내버스 353번 노선안내 마을">
+							353
+							<small class="">웅동농협하나로마트 ~ 포스텍지엘씨</small>
+						</a>
+					</li>
+									<li class="item" data-text="501">
+						<a class="box-link" href="/창원시/버스/501/" title="창원시 시내버스 501번 노선안내 지선">
+							501
+							<small class="">사화초등학교 ~ 세원셀론텍.영흥철강</small>
+						</a>
+					</li>
+									<li class="item" data-text="501">
+						<a class="box-link" href="/창원시/버스/501-1/" title="창원시 시내버스 501번 노선안내 지선">
+							501
+							<small class="">세아제강 ~ 사화초등학교</small>
+						</a>
+					</li>
+									<li class="item" data-text="502">
+						<a class="box-link" href="/창원시/버스/502/" title="창원시 시내버스 502번 노선안내 지선">
+							502
+							<small class="">도청사거리 ~ 세원셀론텍.영흥철강</small>
+						</a>
+					</li>
+									<li class="item" data-text="502">
+						<a class="box-link" href="/창원시/버스/502-1/" title="창원시 시내버스 502번 노선안내 지선">
+							502
+							<small class="">세아제강 ~ 도청사거리</small>
+						</a>
+					</li>
+									<li class="item" data-text="503">
+						<a class="box-link" href="/창원시/버스/503/" title="창원시 시내버스 503번 노선안내 지선">
+							503
+							<small class="">가음은아아파트 ~ 세아제강</small>
+						</a>
+					</li>
+									<li class="item" data-text="503">
+						<a class="box-link" href="/창원시/버스/503-1/" title="창원시 시내버스 503번 노선안내 지선">
+							503
+							<small class="">미래기전 ~ 장미공원</small>
+						</a>
+					</li>
+									<li class="item" data-text="504">
+						<a class="box-link" href="/창원시/버스/504/" title="창원시 시내버스 504번 노선안내 지선">
+							504
+							<small class="">토월공원 ~ 세아제강</small>
+						</a>
+					</li>
+									<li class="item" data-text="504">
+						<a class="box-link" href="/창원시/버스/504-1/" title="창원시 시내버스 504번 노선안내 지선">
+							504
+							<small class="">미래기전 ~ 토월공원</small>
+						</a>
+					</li>
+									<li class="item" data-text="505">
+						<a class="box-link" href="/창원시/버스/505/" title="창원시 시내버스 505번 노선안내 지선">
+							505
+							<small class="">대방동성아파트 ~ KPE</small>
+						</a>
+					</li>
+									<li class="item" data-text="505">
+						<a class="box-link" href="/창원시/버스/505-1/" title="창원시 시내버스 505번 노선안내 지선">
+							505
+							<small class="">삼광3공장 ~ 대방동성아파트</small>
+						</a>
+					</li>
+									<li class="item" data-text="506">
+						<a class="box-link" href="/창원시/버스/506/" title="창원시 시내버스 506번 노선안내 지선">
+							506
+							<small class="">대방동종점 ~ 인화정공</small>
+						</a>
+					</li>
+									<li class="item" data-text="506">
+						<a class="box-link" href="/창원시/버스/506-1/" title="창원시 시내버스 506번 노선안내 지선">
+							506
+							<small class="">화신케미컬 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="507">
+						<a class="box-link" href="/창원시/버스/507/" title="창원시 시내버스 507번 노선안내 지선">
+							507
+							<small class="">대방동종점 ~ 동우기계</small>
+						</a>
+					</li>
+									<li class="item" data-text="507">
+						<a class="box-link" href="/창원시/버스/507-1/" title="창원시 시내버스 507번 노선안내 지선">
+							507
+							<small class="">미래산업 ~ 대방동종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="529">
+						<a class="box-link" href="/창원시/버스/529/" title="창원시 시내버스 529번 노선안내 지선">
+							529
+							<small class="">월영아파트종점 ~ 제3부두</small>
+						</a>
+					</li>
+									<li class="item" data-text="529">
+						<a class="box-link" href="/창원시/버스/529-1/" title="창원시 시내버스 529번 노선안내 지선">
+							529
+							<small class="">제3부두 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="530">
+						<a class="box-link" href="/창원시/버스/530/" title="창원시 시내버스 530번 노선안내 지선">
+							530
+							<small class="">STX칸1차아파트후문 ~ 제3부두</small>
+						</a>
+					</li>
+									<li class="item" data-text="530">
+						<a class="box-link" href="/창원시/버스/530-1/" title="창원시 시내버스 530번 노선안내 지선">
+							530
+							<small class="">제3부두 ~ STX칸1차아파트후문</small>
+						</a>
+					</li>
+									<li class="item" data-text="703">
+						<a class="box-link" href="/창원시/버스/703/" title="창원시 시내버스 703번 노선안내 좌석">
+							703
+							<small class="">가음정레포츠공원환승센터 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="704">
+						<a class="box-link" href="/창원시/버스/704/" title="창원시 시내버스 704번 노선안내 좌석">
+							704
+							<small class="">대방동성아파트 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="707">
+						<a class="box-link" href="/창원시/버스/707/" title="창원시 시내버스 707번 노선안내 좌석">
+							707
+							<small class="">대방동종점 ~ 해운중학교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="710">
+						<a class="box-link" href="/창원시/버스/710/" title="창원시 시내버스 710번 노선안내 좌석">
+							710
+							<small class="">대방동종점 ~ 마산대학교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="751">
+						<a class="box-link" href="/창원시/버스/751/" title="창원시 시내버스 751번 노선안내 좌석">
+							751
+							<small class="">인의동종점 ~ 태광주유소(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="752">
+						<a class="box-link" href="/창원시/버스/752/" title="창원시 시내버스 752번 노선안내 좌석">
+							752
+							<small class="">인의동종점 ~ 태광주유소(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="757">
+						<a class="box-link" href="/창원시/버스/757/" title="창원시 시내버스 757번 노선안내 좌석">
+							757
+							<small class="">소계종점 ~ 부영4단지</small>
+						</a>
+					</li>
+									<li class="item" data-text="760">
+						<a class="box-link" href="/창원시/버스/760/" title="창원시 시내버스 760번 노선안내 좌석">
+							760
+							<small class="">인의동종점 ~ 마산역종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="762">
+						<a class="box-link" href="/창원시/버스/762/" title="창원시 시내버스 762번 노선안내 좌석">
+							762
+							<small class="">장천동.이순신리더쉽국제센터 ~ 마산대학교종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="800">
+						<a class="box-link" href="/창원시/버스/800/" title="창원시 시내버스 800번 노선안내 좌석">
+							800
+							<small class="">대방동성아파트 ~ 월영아파트종점</small>
+						</a>
+					</li>
+									<li class="item" data-text="801">
+						<a class="box-link" href="/창원시/버스/801/" title="창원시 시내버스 801번 노선안내 좌석">
+							801
+							<small class="">청솔아파트종점 ~ 덕동공영차고지</small>
+						</a>
+					</li>
+									<li class="item" data-text="860">
+						<a class="box-link" href="/창원시/버스/860/" title="창원시 시내버스 860번 노선안내 좌석">
+							860
+							<small class="">덕동공영차고지 ~ 용원종점(회차)</small>
+						</a>
+					</li>
+									<li class="item" data-text="1000">
+						<a class="box-link" href="/창원시/버스/1000/" title="창원시 시내버스 1000번 노선안내 지선">
+							1000
+							<small class="">두릉마을종점 ~ 마산역종점</small>
+						</a>
+					</li>
+							</ul>
+		</div>
+</section>
+</div>
+				
+		<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="40563640974538c7722ebb33897ddb7a" data-facebook-app-id=""></div>
+
+		
+		<div class="nv-openmain" data-title="창원시내버스" data-url="https://cwbus.yohan1002.com" data-type="W2"></div>
+		<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+	</article>
+
+	
+
+		</section>
+</div>
+<nav id="sidebar" class="slideout-menu">
+	<div class="box">
+		
+					<div class="banner-box">
+								<div class="banner-body">
+											<h3 class="banner-title">창원버스정보시스템</h3>
+					
+											<p class="banner-text">창원시 시내버스 운행시간표, 요금 및 환승정보, 임시 운행노선, 자주묻는 질문</p>
+					
+					<a href="http://bus.changwon.go.kr/main.do" title="창원버스정보시스템" class="banner-button"   target="_blank" >바로가기</a>
+				</div>
+			</div>
+					<div class="banner-box">
+								<div class="banner-body">
+											<h3 class="banner-title">창원시내버스협의회</h3>
+					
+											<p class="banner-text">각종 불편사항 및 시내버스 운행시간 안내, 운행업체 별 연락처</p>
+					
+					<a href="http://www.cwbus.kr/" title="창원시내버스협의회" class="banner-button"   target="_blank" >바로가기</a>
+				</div>
+			</div>
+		
+
+		
+		<form action="https://www.google.com/search" method="get" target="_blank" class="form-search">
+			<fieldset>
+				<input type="hidden" name="sitesearch" value="https://cwbus.yohan1002.com">
+				<legend>검색하기 폼</legend>
+				<label>검색하기</label>
+				<input type="text" name="q" value="" placeholder="Search"/>
+			</fieldset>
+		</form>
+
+		
+		
+	</div>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+<footer class="bottom">
+	hosted by <a href="https://github.com/" title="Github.com"><em>Github</em></a> / Posted by <a href="mailto:yohan1002@gmail.com" title="운영자에게 메일보내기"><em>yohan1002@gmail.com</em></a>
+	&nbsp;&nbsp;&nbsp;<a href="/policy/privacy/" target="_blank" title="개인정보처리방침">개인정보처리방침</a>
+</footer>
+
+
+<script src="/res/js/min/5395c168de97428f20fdce04083d0d23.js" async="true" type="text/javascript"></script>
+</body>
+</html>

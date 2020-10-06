@@ -6,7 +6,7 @@
 		<title>창원 시내버스 실시간 도착정보 - 창원시내버스</title>
 	<meta name="author" content="yohan1002@gmail.com">
 	<meta name="keywords" content="창원 시내버스, 창원 시네버스, 실시간 버스위치, 버스 도착시간, 시내버스 정류장, 시내버스 정류소, 정류장 검색, 정류소 검색, 시내버스 노선,  시네버스 노선">
-	<meta name="description" content="창원 시내버스 실시간 도착정보 정류소를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 ㄱ 가곡마을 북면물재생센터 방향 가곡마을 본포입구 방향 가술 대산일반산업단지 방향 가술정류장 제동마을 방향 가월마을입구 가월윗담 방향 가월윗담 주남삼거리 방향 가월윗담 가월입구 방향 가월입구 주남저수지 방향 가음은아아파트 더샵센트럴파크 3단지 방향 가음정레포츠공원환승센터 남산중학교 방향 가음정본동 창원남중 방향 가음정사거리 가음은아아파트 방향 가음정사거리 남산중학교 방향 가주동시내버스회차지 주포종점 방향 가촌 가촌마을 방향 가촌 대산119안전센터 방">
+	<meta name="description" content="창원 시내버스 실시간 도착정보 정류소를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 ㄱ 가곡마을 월계, 북면물재생센터 방향 가곡마을 본포입구 방향 가술 대산초등학교, 가술정류장, 대산일반산업단지 방향 가술정류장 제동마을 방향 가월마을입구 가월윗담 방향 가월윗담 주남삼거리 방향 가월윗담 가월입구 방향 가월입구 주남저수지 방향 가음은아아파트 더샵센트럴파크 3단지 방향 가음정레포츠공원환승센터 남산동, 남산중학교, 남산중학교 방향 가음정본동 창원남중, 창원남중 방향 가음정사거리 가음정본동, 가음은아아파트 방향 가음정사거리 남산버스정류소, ">
 	<meta name="referrer" content="always">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="shortcut icon" type="image/x-icon" href="https://cwbus.yohan1002.com/favicon.ico"/>
@@ -30,13 +30,13 @@
 	<meta name="MobileOptimized" content="320">
 
 							<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=40563640974538c7722ebb33897ddb7a"></script>
-					<script type="text/javascript" src="/res/js/data/stations-38010.js?ls=1601948371"></script>
+					<script type="text/javascript" src="/res/js/data/stations-38010.js?ls=1601947142"></script>
 			
 	
 	<meta property="og:type" content="article">
 	<meta property="og:site_name" content="창원시내버스">
 	<meta property="og:title" content="창원 시내버스 실시간 도착정보">
-	<meta property="og:description" content="창원 시내버스 실시간 도착정보 정류소를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 ㄱ 가곡마을 북면물재생센터 방향 가곡마을 본포입구 방향 가술 대산일반산업단지 방향 가술정류장 제동마을 방향 가월마을입구 가월윗담 방향 가월윗담 주남삼거리 방향 가월윗담 가월입구 방향 가월입구 주남저수지 방향 가음은아아파트 더샵센트럴파크 3단지 방향 가음정레포츠공원환승센터 남산중학교 방향 가음정본동 창원남중 방향 가음정사거리 가음은아아파트 방향 가음정사거리 남산중학교 방향 가주동시내버스회차지 주포종점 방향 가촌 가촌마을 방향 가촌 대산119안전센터 방">
+	<meta property="og:description" content="창원 시내버스 실시간 도착정보 정류소를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 ㄱ 가곡마을 월계, 북면물재생센터 방향 가곡마을 본포입구 방향 가술 대산초등학교, 가술정류장, 대산일반산업단지 방향 가술정류장 제동마을 방향 가월마을입구 가월윗담 방향 가월윗담 주남삼거리 방향 가월윗담 가월입구 방향 가월입구 주남저수지 방향 가음은아아파트 더샵센트럴파크 3단지 방향 가음정레포츠공원환승센터 남산동, 남산중학교, 남산중학교 방향 가음정본동 창원남중, 창원남중 방향 가음정사거리 가음정본동, 가음은아아파트 방향 가음정사거리 남산버스정류소, ">
 	<meta property="og:url" content="https://cwbus.yohan1002.com/창원시/정류소/"/>
 	<meta property="og:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
 	
@@ -45,7 +45,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@">
 	<meta name="twitter:title" content="창원 시내버스 실시간 도착정보">
-	<meta name="twitter:description" content="창원 시내버스 실시간 도착정보 정류소를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 ㄱ 가곡마을 북면물재생센터 방향 가곡마을 본포입구 방향 가술 대산일반산업단지 방향 가술정류장 제동마을 방향 가월마을입구 가월윗담 방향 가월윗담 주남삼거리 방향 가월윗담 가월입구 방향 가월입구 주남저수지 방향 가음은아아파트 더샵센트럴파크 3단지 방향 가음정레포츠공원환승센터 남산중학교 방향 가음정본동 창원남중 방향 가음정사거리 가음은아아파트 방향 가음정사거리 남산중학교 방향 가주동시내버스회차지 주포종점 방향 가촌 가촌마을 방향 가촌 대산119안전센터 방">
+	<meta name="twitter:description" content="창원 시내버스 실시간 도착정보 정류소를 선택하세요 버스노선 실시간 도착정보 즐겨찾기 ㄱ 가곡마을 월계, 북면물재생센터 방향 가곡마을 본포입구 방향 가술 대산초등학교, 가술정류장, 대산일반산업단지 방향 가술정류장 제동마을 방향 가월마을입구 가월윗담 방향 가월윗담 주남삼거리 방향 가월윗담 가월입구 방향 가월입구 주남저수지 방향 가음은아아파트 더샵센트럴파크 3단지 방향 가음정레포츠공원환승센터 남산동, 남산중학교, 남산중학교 방향 가음정본동 창원남중, 창원남중 방향 가음정사거리 가음정본동, 가음은아아파트 방향 가음정사거리 남산버스정류소, ">
 	<meta property="twitter:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
 	
 
@@ -88,7 +88,7 @@
 		<div class="title">
 			<h2 class="entry-title">창원 시내버스 실시간 도착정보</h2>
 						<time class="published hide" datetime="2020-07-16 10:53:18">2020.07.16. 10:53</time>
-			<time class="updated hide" datetime="2020-10-06 10:39:31">2020.10.06. 10:39</time>
+			<time class="updated hide" datetime="2020-09-08 10:53:03">2020.09.08. 10:53</time>
 			<span class="vcard author hide"><span class="fn">yohan1002@gmail.com</span></span>
 		</div>
 		-->
@@ -127,7 +127,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/가곡마을/">
 										가곡마을
-										<small>북면물재생센터 방향</small>
+										<small>월계, 북면물재생센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -139,7 +139,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/가술/">
 										가술
-										<small>대산일반산업단지 방향</small>
+										<small>대산초등학교, 가술정류장, 대산일반산업단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -181,25 +181,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/가음정레포츠공원환승센터/">
 										가음정레포츠공원환승센터
-										<small>남산중학교 방향</small>
+										<small>남산동, 남산중학교, 남산중학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/가음정본동/">
 										가음정본동
-										<small>창원남중 방향</small>
+										<small>창원남중, 창원남중 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/가음정사거리/">
 										가음정사거리
-										<small>가음은아아파트 방향</small>
+										<small>가음정본동, 가음은아아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/가음정사거리-1/">
 										가음정사거리
-										<small>남산중학교 방향</small>
+										<small>남산버스정류소, 남산중학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -211,7 +211,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/가촌/">
 										가촌
-										<small>가촌마을 방향</small>
+										<small>세진테크원, 가촌마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -367,7 +367,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/감계입구-1/">
 										감계입구
-										<small>힐스테이트1차 방향</small>
+										<small>화천리, 힐스테이트1차 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -391,7 +391,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/감나무골-2/">
 										감나무골
-										<small>감계리 방향</small>
+										<small>대천, 감계리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -433,7 +433,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/감천교-1/">
 										감천교
-										<small>감천입구 방향</small>
+										<small>감천초등학교, 감천입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -457,7 +457,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/감천초등학교/">
 										감천초등학교
-										<small>감천교 방향</small>
+										<small>신감사거리, 감천교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -469,7 +469,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/갑오마을/">
 										갑오마을
-										<small>장유문화센터 방향</small>
+										<small>계동, 장유문화센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -511,7 +511,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/거락마을/">
 										거락마을
-										<small>금암마을 방향</small>
+										<small>금암 (중촌)마을, 금암마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -559,19 +559,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/검찰청-1/">
 										검찰청
-										<small>신월동 방향</small>
+										<small>창원시립테니스장입구, 신월동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남대남부터미널종점/">
 										경남대남부터미널종점
-										<small>해운중학교종점 방향</small>
+										<small>해운초등학교, 해운동, 월영아파트종점, 해운중학교종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남대남부터미널종점-1/">
 										경남대남부터미널종점
-										<small>경남대학교 방향</small>
+										<small>문화동, GS마트, 경남대학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -601,25 +601,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경남대학교-2/">
 										경남대학교
-										<small>연세병원 방향</small>
+										<small>경남대학교, 문화동, 연세병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남데파트/">
 										경남데파트
-										<small>KT서마산지점 방향</small>
+										<small>KT서마산지점, KT서마산지점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남데파트-1/">
 										경남데파트
-										<small>완월초등학교 방향</small>
+										<small>마산합포구청.의료원, 완월초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남데파트-2/">
 										경남데파트
-										<small>어시장 방향</small>
+										<small>KT서마산지점, KT서마산지점, 어시장, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -643,19 +643,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경남도의회-3/">
 										경남도의회
-										<small>토월공원 방향</small>
+										<small>병무청, 경남도청, 토월공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남도청/">
 										경남도청
-										<small>봉곡상가입구 방향</small>
+										<small>도청사거리, 도립미술관, 경남선관위, 창원대학교 종점, 성심유치원, 봉곡상가입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남도청-1/">
 										경남도청
-										<small>창원축구센타.법원 방향</small>
+										<small>토월공원, 병무청, 창원시립테니스장입구, 창원축구센타.법원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -679,7 +679,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경남선관위-1/">
 										경남선관위
-										<small>경남도청 방향</small>
+										<small>도립미술관, 경남도청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -703,7 +703,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경남은행본점/">
 										경남은행본점
-										<small>마산역종점 방향</small>
+										<small>마산역. 365병원, 마산역종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -715,19 +715,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경남테크노파크-1/">
 										경남테크노파크
-										<small>차룡단지 방향</small>
+										<small>팔룡동입구, 차룡단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경남테크노파크/">
 										경남테크노파크
-										<small>창원역 방향</small>
+										<small>한국전력, 창원역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경동메르빌/">
 										경동메르빌
-										<small>마산합포구청.의료원 방향</small>
+										<small>마산합포구청.의료원, 마산합포구청.의료원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -769,7 +769,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경상대병원정문/">
 										경상대병원정문
-										<small>한림푸르지오 방향</small>
+										<small>성산구청.성주동마을도서관, 국방기술품질원, 한림푸르지오 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -805,25 +805,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경제자유구역청사거리/">
 										경제자유구역청사거리
-										<small>경제자유구역청 방향</small>
+										<small>경제자유구역청, 경제자유구역청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경제자유구역청사거리-1/">
 										경제자유구역청사거리
-										<small>(주)태광 방향</small>
+										<small>부산항홍보관, (주)태광 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경창상가/">
 										경창상가
-										<small>상남대우아파트 방향</small>
+										<small>대호타워아파트, 상남대우아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/경창상가-1/">
 										경창상가
-										<small>국민은행 방향</small>
+										<small>수협경남금융본부, 국민은행 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -853,7 +853,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경화동/">
 										경화동
-										<small>양곡상가 방향</small>
+										<small>경화육교, 구민회관(164), 양곡상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -895,7 +895,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/경화역/">
 										경화역
-										<small>경화가압장 방향</small>
+										<small>경화동, 경화가압장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -937,7 +937,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/계동/">
 										계동
-										<small>도청골 방향</small>
+										<small>대청계곡, 도청골 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -955,7 +955,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/계동초등학교-1/">
 										계동초등학교
-										<small>갑오마을 방향</small>
+										<small>대청계곡, 갑오마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -985,13 +985,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/고속버스터미널/">
 										고속버스터미널
-										<small>자유무역지역후문 방향</small>
+										<small>신세계백화점, 자유무역지역후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/고속버스터미널-1/">
 										고속버스터미널
-										<small>타워맨션 방향</small>
+										<small>한일로타리, 타워맨션 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1207,7 +1207,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/관동중학교-1/">
 										관동중학교
-										<small>덕정공원 방향</small>
+										<small>덕정초등학교, 덕정공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1315,13 +1315,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/교도소입구-1/">
 										교도소입구
-										<small>북성초등학교 방향</small>
+										<small>보문주유소, 회성동주민센터, 북성초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/교도소입구/">
 										교도소입구
-										<small>내서초등학교 방향</small>
+										<small>한효국화맨션, 교도소, 내서초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1459,7 +1459,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/구암2동주민센터/">
 										구암2동주민센터
-										<small>삼성창원병원 방향</small>
+										<small>구암고등학교, 삼성창원병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1483,25 +1483,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/구암동-1/">
 										구암동
-										<small>덕재.롯데캐슬 방향</small>
+										<small>구암동, 덕재.롯데캐슬 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/구암동-2/">
 										구암동
-										<small>한국전력 방향</small>
+										<small>KT동마산지점, 구암고등학교, 한국전력 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/구암동육교/">
 										구암동육교
-										<small>구암동현대상가 방향</small>
+										<small>구암동, 구암동현대상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/구암동주민센타/">
 										구암동주민센타
-										<small>석보아파트 방향</small>
+										<small>구암동현대상가, 석보아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1513,7 +1513,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/구암동현대상가-1/">
 										구암동현대상가
-										<small>석보아파트 방향</small>
+										<small>구암동주민센타, 석보아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1537,7 +1537,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/구암중학교-1/">
 										구암중학교
-										<small>소계시장 방향</small>
+										<small>구암여중, 소계시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1561,7 +1561,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/국군마산병원/">
 										국군마산병원
-										<small>임곡삼거리 방향</small>
+										<small>임곡마을, 임곡삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1633,13 +1633,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/국제주유소/">
 										국제주유소
-										<small>석전동 방향</small>
+										<small>석전사거리, 석전동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/국제주유소-1/">
 										국제주유소
-										<small>회원신협 방향</small>
+										<small>동중입구, 회원초등학교, 회원신협 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1669,7 +1669,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/군령삼거리-1/">
 										군령삼거리
-										<small>마전 방향</small>
+										<small>상마산입구, 마전 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1717,19 +1717,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/극동아파트/">
 										극동아파트
-										<small>팔룡동주민센터 방향</small>
+										<small>창원웨딩의전당, 팔룡동주민센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/극동아파트-1/">
 										극동아파트
-										<small>사화초등학교 방향</small>
+										<small>팔룡중학교, 사화초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/근곡마을/">
 										근곡마을
-										<small>진전신기 방향</small>
+										<small>암하, 진전신기 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1855,7 +1855,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/금암-중촌-마을/">
 										금암 (중촌)마을
-										<small>금암마을 방향</small>
+										<small>거락마을, 금암마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1867,7 +1867,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/금암마을/">
 										금암마을
-										<small>거락마을 방향</small>
+										<small>금암 (중촌)마을, 거락마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1879,7 +1879,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/금호온천/">
 										금호온천
-										<small>청년주유소 방향</small>
+										<small>소답동, 청년주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1909,7 +1909,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/기영아파트-1/">
 										기영아파트
-										<small>진영협성휴포레 방향</small>
+										<small>진영제일고등학교, 진영협성휴포레 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1921,7 +1921,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/길상사입구/">
 										길상사입구
-										<small>창원중앙역(종점) 방향</small>
+										<small>창원중앙역, 창원중앙역(종점) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1939,13 +1939,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/까치골-1/">
 										까치골
-										<small>월촌교 방향</small>
+										<small>동전입구, 월촌교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/까치아파트/">
 										까치아파트
-										<small>까치아파트입구 방향</small>
+										<small>대동그린코아, 까치아파트입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -1957,13 +1957,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/까치아파트입구/">
 										까치아파트입구
-										<small>반지사거리 방향</small>
+										<small>지귀상가, 반지사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/까치아파트입구-1/">
 										까치아파트입구
-										<small>까치아파트 방향</small>
+										<small>대동그린코아, 까치아파트 방향</small>
 									</a>
 								</li>
 													</ul>
@@ -2022,7 +2022,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남명더라우/">
 										남명더라우
-										<small>대동1단지 방향</small>
+										<small>장유농협, 대동1단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2040,7 +2040,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남모산-1/">
 										남모산
-										<small>북부 방향</small>
+										<small>북모산마을, 북부 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2058,7 +2058,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남문동/">
 										남문동
-										<small>웅천동주민센터 방향</small>
+										<small>웅천시장입구, 웅천동주민센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2106,13 +2106,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남부터미널/">
 										남부터미널
-										<small>경남대학교 방향</small>
+										<small>경남대학교, 경남대학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남산고등학교/">
 										남산고등학교
-										<small>남산초등학교 방향</small>
+										<small>대방동종점, 남산초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2142,13 +2142,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남산아파트/">
 										남산아파트
-										<small>성산구청 방향</small>
+										<small>성산구청.성주동마을도서관, 성산구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남산중학교/">
 										남산중학교
-										<small>여성회관창원관 방향</small>
+										<small>남산버스정류소, 여성회관창원관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2166,13 +2166,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남산초등학교/">
 										남산초등학교
-										<small>대방동종점 방향</small>
+										<small>남산고등학교, 대방동종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남산초등학교-1/">
 										남산초등학교
-										<small>여성회관창원관 방향</small>
+										<small>피오르빌아파트, 여성회관창원관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2190,7 +2190,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남양동주택/">
 										남양동주택
-										<small>대방동성아파트 방향</small>
+										<small>안남중학교, 대방동성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2202,43 +2202,43 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남양성원2차아파트/">
 										남양성원2차아파트
-										<small>사파동성아파트 방향</small>
+										<small>대방성원3차아파트, 사파동성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남양성원2차아파트-1/">
 										남양성원2차아파트
-										<small>남양동주택 방향</small>
+										<small>남양개나리3차아파트, 남양동주택 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남양성원2차아파트-2/">
 										남양성원2차아파트
-										<small>대동백화점 방향</small>
+										<small>남양성원1차아파트, 대동백화점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남양초등학교/">
 										남양초등학교
-										<small>LG사원아파트 방향</small>
+										<small>한림아파트, LG사원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남원로타리/">
 										남원로타리
-										<small>신흥동아파트 방향</small>
+										<small>진해청소년전당, 신흥동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남원로타리-1/">
 										남원로타리
-										<small>진해남산초등학교 방향</small>
+										<small>인의동종점, 진해남산초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/남창원역/">
 										남창원역
-										<small>세아제강 방향</small>
+										<small>남창원역, 세아제강 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2250,7 +2250,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/남창원역-2/">
 										남창원역
-										<small>미래기전 방향</small>
+										<small>세아제강, 미래기전 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2304,7 +2304,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/내곡마을-1/">
 										내곡마을
-										<small>두동 방향</small>
+										<small>청안해오름, 두동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2388,7 +2388,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/내서여고-1/">
 										내서여고
-										<small>상곡시장 방향</small>
+										<small>장미아파트, 상곡시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2430,13 +2430,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/내서초등학교/">
 										내서초등학교
-										<small>중리삼거리 방향</small>
+										<small>두척, 중리삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/내서초등학교-1/">
 										내서초등학교
-										<small>교도소입구 방향</small>
+										<small>약수터가든, 교도소입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2448,7 +2448,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/내포리-1/">
 										내포리
-										<small>내포마을 방향</small>
+										<small>내포마을회관, 내포마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2466,7 +2466,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/내포마을회관/">
 										내포마을회관
-										<small>내포리 방향</small>
+										<small>옥계리, 내포리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2520,7 +2520,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/노블파크아파트/">
 										노블파크아파트
-										<small>운동장사거리 방향</small>
+										<small>창원문성대학교, 문성고등학교, 운동장사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2592,13 +2592,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/농산물도매시장입구/">
 										농산물도매시장입구
-										<small>농산물도매시장 방향</small>
+										<small>죽암, 농산물도매시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/농업기술센터/">
 										농업기술센터
-										<small>세스페데스공원 방향</small>
+										<small>웅천동, 세스페데스공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2610,13 +2610,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/농업기술센터-2/">
 										농업기술센터
-										<small>시티7 방향</small>
+										<small>명서동허앤리병원, 농협하나로클럽, 시티7 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/농업기술센터-3/">
 										농업기술센터
-										<small>창원공고 방향</small>
+										<small>파티마병원, 창원공고 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2634,13 +2634,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/농협하나로클럽/">
 										농협하나로클럽
-										<small>시티7 방향</small>
+										<small>농업기술센터, 명서동허앤리병원, 시티7 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/농협하나로클럽-1/">
 										농협하나로클럽
-										<small>지귀상가 방향</small>
+										<small>유목교, 지귀상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2664,7 +2664,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/늘푸른전당-1/">
 										늘푸른전당
-										<small>충혼탑 방향</small>
+										<small>충혼탑, 충혼탑 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2676,7 +2676,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/능동삼거리-1/">
 										능동삼거리
-										<small>삼정자내리마을 방향</small>
+										<small>대청1교, 삼정자내리마을 방향</small>
 									</a>
 								</li>
 													</ul>
@@ -2717,7 +2717,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/다호-1/">
 										다호
-										<small>주남삼거리 방향</small>
+										<small>주남삼거리, 주남삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2735,7 +2735,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/달천산림욕장/">
 										달천산림욕장
-										<small>지개리입구 방향</small>
+										<small>지개리입구, 지개리입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2801,7 +2801,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대동1단지-1/">
 										대동1단지
-										<small>장유농협 방향</small>
+										<small>남명더라우, 장유농협 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2819,13 +2819,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대동갑오5단지/">
 										대동갑오5단지
-										<small>대청고등학교 방향</small>
+										<small>갑오마을4단지, 대청고등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대동그린코아/">
 										대동그린코아
-										<small>경남도청 방향</small>
+										<small>봉림중학교, 장애인복지회관입구, 사림동, 경남도청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2843,25 +2843,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대동다숲-마린푸르지오2단지apt/">
 										대동다숲.마린푸르지오2단지APT
-										<small>장천동(회차) 방향</small>
+										<small>장천동(종점), 장천동.이순신리더쉽국제센터, 장천동(회차) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대동다숲-마린푸르지오2단지apt-1/">
 										대동다숲.마린푸르지오2단지APT
-										<small>벽산솔렌스힐아파트 방향</small>
+										<small>벽산솔렌스힐아파트, 벽산솔렌스힐아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대동백화점/">
 										대동백화점
-										<small>은아아파트 방향</small>
+										<small>시민생활체육관, 은아아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대동백화점-1/">
 										대동백화점
-										<small>남양개나리3차아파트 방향</small>
+										<small>토월성원아파트, 사파삼익1차아파트, 남양개나리3차아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2885,7 +2885,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대동아파트앞/">
 										대동아파트앞
-										<small>자은동주민센터 방향</small>
+										<small>자은주공아파트, 자은동주민센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2915,13 +2915,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대동한솔아파트/">
 										대동한솔아파트
-										<small>안민초등학교 방향</small>
+										<small>신우에이스타운, 안민초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대동한솔아파트-1/">
 										대동한솔아파트
-										<small>성주동주민센터 방향</small>
+										<small>삼성그린빌, 성주동주민센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2951,7 +2951,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대방/">
 										대방
-										<small>가촌마을 방향</small>
+										<small>세진테크원, 가촌마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -2987,55 +2987,55 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대방대동아파트-1/">
 										대방대동아파트
-										<small>대방덕산2차아파트 방향</small>
+										<small>안남초등학교, 대방황토방아파트, 대방덕산2차아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방덕산2차아파트/">
 										대방덕산2차아파트
-										<small>성산구청 방향</small>
+										<small>대방동종점, 대방동성아파트, 성산구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방동성아파트/">
 										대방동성아파트
-										<small>대방동성아파트 방향</small>
+										<small>성산구청, 대방동성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방동성아파트-1/">
 										대방동성아파트
-										<small>임마뉴엘교회 방향</small>
+										<small>안남중학교, 임마뉴엘교회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방동성아파트-2/">
 										대방동성아파트
-										<small>성주프리빌리지아파트 방향</small>
+										<small>한림푸르지오, 성주프리빌리지아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방동종점/">
 										대방동종점
-										<small>한림푸르지오 방향</small>
+										<small>성주프리빌리지아파트, 대방동성아파트, 대방동종점, 한림푸르지오 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방동종점-1/">
 										대방동종점
-										<small>피오르빌아파트 방향</small>
+										<small>남산고등학교, 남산초등학교, 성주프리빌리지아파트, 피오르빌아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방성원3차아파트/">
 										대방성원3차아파트
-										<small>상남교회 방향</small>
+										<small>사파동성아파트, 상남교회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대방성원3차아파트-1/">
 										대방성원3차아파트
-										<small>상남교회 방향</small>
+										<small>사파동성아파트, 상남교회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3047,7 +3047,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대방황토방아파트/">
 										대방황토방아파트
-										<small>대방덕산2차아파트 방향</small>
+										<small>대방그린빌아파트, 대방덕산2차아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3089,19 +3089,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대산미곡처리장/">
 										대산미곡처리장
-										<small>중포회관 방향</small>
+										<small>장등, 우암리, 중포회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대산미곡처리장-1/">
 										대산미곡처리장
-										<small>삼봉마을 방향</small>
+										<small>제동마을, 삼봉마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대산일반산업단지/">
 										대산일반산업단지
-										<small>가술정류장 방향</small>
+										<small>장등입구, 가술정류장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3143,7 +3143,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대암고교/">
 										대암고교
-										<small>대방대동아파트 방향</small>
+										<small>안남초등학교, 대방대동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3185,13 +3185,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대원성원아파트/">
 										대원성원아파트
-										<small>세원셀론텍.영흥철강 방향</small>
+										<small>셰풀러코리아, 세원셀론텍.영흥철강 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/대원성원아파트-1/">
 										대원성원아파트
-										<small>충혼탑 방향</small>
+										<small>목련아파트, 충혼탑, 충혼탑 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3203,7 +3203,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대원현대사원아파트-1/">
 										대원현대사원아파트
-										<small>농업기술센터 방향</small>
+										<small>농업기술센터, 농업기술센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3233,7 +3233,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대정입구-1/">
 										대정입구
-										<small>대정입구 방향</small>
+										<small>계양, 대정입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3281,7 +3281,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대청1교/">
 										대청1교
-										<small>대동갑오5단지 방향</small>
+										<small>계동, 대동갑오5단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3341,7 +3341,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대청초등학교-1/">
 										대청초등학교
-										<small>삼문마을 방향</small>
+										<small>푸르지오8차, 삼문마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3425,7 +3425,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/대호아파트-1/">
 										대호아파트
-										<small>중리 방향</small>
+										<small>신촌주유소, 중리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3455,25 +3455,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/더샵센트럴파크-1단지/">
 										더샵센트럴파크 1단지
-										<small>대방동종점 방향</small>
+										<small>남산초등학교, 여성회관창원관, 대방동종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/더샵센트럴파크-2단지/">
 										더샵센트럴파크 2단지
-										<small>더샵센트럴파크 1단지 방향</small>
+										<small>피오르빌아파트, 더샵센트럴파크 1단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/더샵센트럴파크-3단지/">
 										더샵센트럴파크 3단지
-										<small>한림아파트 방향</small>
+										<small>더샵센트럴파크 2단지, 한림아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/더푸른아파트/">
 										더푸른아파트
-										<small>KB국민은행 방향</small>
+										<small>롯데마트, KB국민은행 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3527,13 +3527,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/덕동공영차고지/">
 										덕동공영차고지
-										<small>현동초등학교 방향</small>
+										<small>묘촌입구, 현동초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/덕동공영차고지-1/">
 										덕동공영차고지
-										<small>덕동공영차고지 방향</small>
+										<small>유산마을입구, 하수도사업소, 덕동공영차고지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3623,7 +3623,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/덕산해군아파트-1/">
 										덕산해군아파트
-										<small>우성아파트.아이존빌입구 방향</small>
+										<small>자은본동교차로, 우성아파트.아이존빌입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3635,7 +3635,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/덕재-롯데캐슬-1/">
 										덕재.롯데캐슬
-										<small>구암동 방향</small>
+										<small>복음요양병원, 구암동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3677,7 +3677,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/덕천마을/">
 										덕천마을
-										<small>새마을금고 방향</small>
+										<small>용잠삼거리, 용잠삼거리, 새마을금고 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3701,7 +3701,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/덕현마을-1/">
 										덕현마을
-										<small>우암마을 방향</small>
+										<small>유청, 우암마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3713,7 +3713,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/도계동-1/">
 										도계동
-										<small>금호온천 방향</small>
+										<small>소답동, 도계동만남의광장, 금호온천 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3725,25 +3725,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/도계동만남의광장/">
 										도계동만남의광장
-										<small>도계동.서부스포츠센터 방향</small>
+										<small>금호온천, 도계동.서부스포츠센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/도계동만남의광장-1/">
 										도계동만남의광장
-										<small>용강마을입구 방향</small>
+										<small>용강검문소, 용강마을입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/도계주유소-1/">
 										도계주유소
-										<small>명서동허앤리병원 방향</small>
+										<small>서부경찰서.원흥사, 명서동허앤리병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/도계주유소/">
 										도계주유소
-										<small>의창동환승센터 방향</small>
+										<small>도계동, 소답동, 청년주유소, 의창동환승센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3779,7 +3779,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/도립미술관-1/">
 										도립미술관
-										<small>경남도청 방향</small>
+										<small>경남선관위, 경남도청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3797,7 +3797,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/도산마을/">
 										도산마을
-										<small>국군마산병원 방향</small>
+										<small>임곡마을, 국군마산병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3833,7 +3833,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/도청사거리-1/">
 										도청사거리
-										<small>경남도의회 방향</small>
+										<small>경남도청, 경남도의회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3947,25 +3947,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동서병원/">
 										동서병원
-										<small>장미파크맨션 방향</small>
+										<small>구미동, 장미파크맨션 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/동서병원-1/">
 										동서병원
-										<small>호계농협 방향</small>
+										<small>호계농협, 호계농협 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/동서식품/">
 										동서식품
-										<small>구암2동주민센터 방향</small>
+										<small>팔룡동입구, 차룡단지, 구암2동주민센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/동서식품-1/">
 										동서식품
-										<small>창원종합터미널 방향</small>
+										<small>동우기계, 창원종합터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -3989,7 +3989,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동신아파트-1/">
 										동신아파트
-										<small>서광맨션 방향</small>
+										<small>중리역, 농산물도매시장입구, 서광맨션 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4007,7 +4007,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동우기계/">
 										동우기계
-										<small>팔룡어울림운동장 방향</small>
+										<small>동서식품, 팔룡어울림운동장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4037,7 +4037,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동읍덕산마을/">
 										동읍덕산마을
-										<small>용잠삼거리 방향</small>
+										<small>용잠3구, 용잠삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4067,13 +4067,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동읍지구대-1/">
 										동읍지구대
-										<small>용잠3구 방향</small>
+										<small>용잠삼거리, 용잠3구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/동읍지구대-2/">
 										동읍지구대
-										<small>무성 방향</small>
+										<small>자여입구, 무성 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4103,7 +4103,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동전리-1/">
 										동전리
-										<small>월드메르디앙아파트 방향</small>
+										<small>동전입구, 월드메르디앙아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4133,13 +4133,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동전입구-1/">
 										동전입구
-										<small>월촌교 방향</small>
+										<small>까치골, 월촌교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/동전입구/">
 										동전입구
-										<small>동전리 방향</small>
+										<small>명당주유소, 동전리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4163,13 +4163,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동정동-1/">
 										동정동
-										<small>북동공설시장 방향</small>
+										<small>흥한웰가아파트, 북동공설시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/동정동갓골/">
 										동정동갓골
-										<small>새터교 방향</small>
+										<small>천주암, 새터교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4217,7 +4217,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/동촌/">
 										동촌
-										<small>진북면사무소 방향</small>
+										<small>진북면사무소, 진북면사무소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4295,7 +4295,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/두산엔진/">
 										두산엔진
-										<small>신촌삼거리 방향</small>
+										<small>웅남소방파출소, 신촌삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4349,7 +4349,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/두척-1/">
 										두척
-										<small>마재고개 방향</small>
+										<small>윗구슬골마을, 마재고개 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4456,7 +4456,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/럭키아파트/">
 										럭키아파트
-										<small>반지민원센타 방향</small>
+										<small>운동장사거리, 반지민원센타 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4492,7 +4492,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/롯데마트-2/">
 										롯데마트
-										<small>한우리아파트 방향</small>
+										<small>삼계, 한우리아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4504,13 +4504,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/롯데마트/">
 										롯데마트
-										<small>한화디펜스 방향</small>
+										<small>안민터널, 상공회의소, 한화디펜스 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/롯데마트-1/">
 										롯데마트
-										<small>대동아파트앞 방향</small>
+										<small>진해경찰서, 석동중학교, 대동아파트앞 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4545,13 +4545,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마린푸르지오1단지-신광아파트/">
 										마린푸르지오1단지.신광아파트
-										<small>풍호동평화마을 방향</small>
+										<small>장천동.이순신리더쉽국제센터, 풍호동평화마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마린푸르지오1단지-신광아파트-1/">
 										마린푸르지오1단지.신광아파트
-										<small>진해구청.장전주유소 방향</small>
+										<small>녹수아파트, 진해구청, 진해구청.장전주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4569,13 +4569,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산대학교종점/">
 										마산대학교종점
-										<small>용담종점 방향</small>
+										<small>마산대학교종점, 용담종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마산대학교종점-1/">
 										마산대학교종점
-										<small>수곡 방향</small>
+										<small>제일고등학교, 수곡 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4593,7 +4593,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산롯데캐슬동문/">
 										마산롯데캐슬동문
-										<small>구암동 방향</small>
+										<small>덕재.롯데캐슬, 구암동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4617,19 +4617,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산리경노당-1/">
 										마산리경노당
-										<small>마산리 방향</small>
+										<small>북면공설운동장, 마산리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마산성로원/">
 										마산성로원
-										<small>경남은행연수원 방향</small>
+										<small>형제상가빌라, 삼학사, 경남은행연수원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마산성로원-1/">
 										마산성로원
-										<small>의신여자중학교 방향</small>
+										<small>서원곡입구, 의신여자중학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4647,7 +4647,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산시외버스터미널-1/">
 										마산시외버스터미널
-										<small>마산역.동마산병원 방향</small>
+										<small>마산역, 마산역.동마산병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4671,7 +4671,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산시외버스터미널-5/">
 										마산시외버스터미널
-										<small>합성동농협 방향</small>
+										<small>합성동, 합성동농협 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4683,7 +4683,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산여고/">
 										마산여고
-										<small>한우아파트 방향</small>
+										<small>완월동, 한우아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4719,19 +4719,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산역/">
 										마산역
-										<small>한일타운 방향</small>
+										<small>역전치안센터, 마산역.동마산병원, 한일타운 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마산역-1/">
 										마산역
-										<small>마산시외버스터미널 방향</small>
+										<small>마산시외버스터미널, 마산시외버스터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마산역-365병원/">
 										마산역. 365병원
-										<small>마산시외버스터미널 방향</small>
+										<small>마산시외버스터미널, 역전치안센터, 마산시외버스터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4743,7 +4743,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산역종점-1/">
 										마산역종점
-										<small>마산시외버스터미널 방향</small>
+										<small>역전치안센터, 마산역, 마산역.동마산병원, 마산시외버스터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4755,7 +4755,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산우체국/">
 										마산우체국
-										<small>무학여고 방향</small>
+										<small>석전동, 3.15아트센타, 메트로시티석전, 무학여고 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4803,13 +4803,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마산합포구청-의료원-1/">
 										마산합포구청.의료원
-										<small>어시장 방향</small>
+										<small>경남데파트, 경남데파트, 어시장, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마산합포구청-의료원-2/">
 										마산합포구청.의료원
-										<small>연세병원 방향</small>
+										<small>경동메르빌, 중부경찰서, 연세병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4857,19 +4857,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/마천공단입구/">
 										마천공단입구
-										<small>마천산업단지 방향</small>
+										<small>STX아파트, 마천산업단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마천공단입구-1/">
 										마천공단입구
-										<small>웅동농협앞 방향</small>
+										<small>웅동, 대장동종점, 웅동농협앞 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/마천산업단지/">
 										마천산업단지
-										<small>영길운동장 방향</small>
+										<small>월남마을입구, 영길운동장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4947,7 +4947,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/망향정입구/">
 										망향정입구
-										<small>욱곡 방향</small>
+										<small>욱곡입구, 욱곡 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -4965,25 +4965,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/매립지입구-1/">
 										매립지입구
-										<small>매립지입구 방향</small>
+										<small>대덕농원, 매립지입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/메트로시티2단지/">
 										메트로시티2단지
-										<small>양덕1동주민센타 방향</small>
+										<small>타워맨션, 양덕1동주민센타 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/메트로시티2단지-1/">
 										메트로시티2단지
-										<small>야구장.마산회원구청 방향</small>
+										<small>야구장앞홈플러스, 문화방송, 야구장.마산회원구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/메트로시티석전/">
 										메트로시티석전
-										<small>석전동 방향</small>
+										<small>경남은행본점, 3.15아트센타, 석전동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5055,7 +5055,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/명서1동/">
 										명서1동
-										<small>상북초교후문 방향</small>
+										<small>상북초교정문, 상북초교후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5067,25 +5067,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/명서다리-명곡교회/">
 										명서다리.명곡교회
-										<small>서부경찰서.원흥사 방향</small>
+										<small>명서초등학교, 서부경찰서.원흥사 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/명서다리-명곡교회-1/">
 										명서다리.명곡교회
-										<small>봉곡동상가입구 방향</small>
+										<small>명서동허앤리병원, 봉곡동상가입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/명서동허앤리병원/">
 										명서동허앤리병원
-										<small>도계주유소 방향</small>
+										<small>명서다리.명곡교회, 명서로입구, 도계주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/명서동허앤리병원-1/">
 										명서동허앤리병원
-										<small>트리비앙아파트 방향</small>
+										<small>농업기술센터, 시티7, 농협하나로클럽, 시티7, 트리비앙아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5109,7 +5109,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/명서초등학교/">
 										명서초등학교
-										<small>의창구청.두산위브 방향</small>
+										<small>서부경찰서.원흥사, 의창구청.두산위브 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5139,7 +5139,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/명주마을/">
 										명주마을
-										<small>명주 방향</small>
+										<small>미리마을, 명주 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5247,7 +5247,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/목장입구/">
 										목장입구
-										<small>구민회관(164) 방향</small>
+										<small>진해구민회관, 구민회관(164) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5271,13 +5271,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/묘촌입구-1/">
 										묘촌입구
-										<small>덕동공영차고지 방향</small>
+										<small>덕동공영차고지, 덕동공영차고지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/무계교/">
 										무계교
-										<small>쌍용예가 방향</small>
+										<small>하봉마을, 쌍용예가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5289,7 +5289,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/무곡리/">
 										무곡리
-										<small>신음 방향</small>
+										<small>북면양촌, 신음 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5349,7 +5349,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/무동입구-1/">
 										무동입구
-										<small>동전리 방향</small>
+										<small>동전회관, 동전리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5367,7 +5367,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/무성-1/">
 										무성
-										<small>동읍지구대 방향</small>
+										<small>자여입구, 동읍보건지소, 동읍지구대 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5379,7 +5379,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/무성마을입구-1/">
 										무성마을입구
-										<small>좌곤육교 방향</small>
+										<small>우성아파트, 좌곤육교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5409,13 +5409,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/무점종점/">
 										무점종점
-										<small>우성아파트 방향</small>
+										<small>무점종점, 우성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/무점종점-1/">
 										무점종점
-										<small>우성아파트 방향</small>
+										<small>무점, 우성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5427,13 +5427,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/무지개아파트-1/">
 										무지개아파트
-										<small>석전동 방향</small>
+										<small>서마산시장, 석전동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/무학여고/">
 										무학여고
-										<small>경남은행본점 방향</small>
+										<small>석전동, 서마산시장, 메트로시티석전, 경남은행본점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5457,7 +5457,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/문성고등학교/">
 										문성고등학교
-										<small>시티7 방향</small>
+										<small>창원컨벤션센터, 시티7 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5469,13 +5469,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/문화동/">
 										문화동
-										<small>경남대남부터미널종점 방향</small>
+										<small>대내주공아파트, 경남대학교, 경남대남부터미널종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/문화동-1/">
 										문화동
-										<small>제일여고 방향</small>
+										<small>제일여고입구, 연세병원, 평화아파트, 제일여고 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5493,7 +5493,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/문화방송-1/">
 										문화방송
-										<small>메트로시티2단지 방향</small>
+										<small>야구장앞홈플러스, 야구장.마산회원구청, 메트로시티2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5582,7 +5582,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/반동삼거리-1/">
 										반동삼거리
-										<small>양평 방향</small>
+										<small>농협조합 앞, 양평 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5606,7 +5606,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/반송여중/">
 										반송여중
-										<small>중앙고등학교 방향</small>
+										<small>일동아파트, 중앙고등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5642,13 +5642,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/반지민원센타-1/">
 										반지민원센타
-										<small>운동장사거리 방향</small>
+										<small>럭키아파트, 운동장사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/반지사거리/">
 										반지사거리
-										<small>까치아파트입구 방향</small>
+										<small>지귀상가, 까치아파트입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5690,7 +5690,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/방송통신대/">
 										방송통신대
-										<small>성지아울렛 방향</small>
+										<small>보건소, 성지아울렛 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5720,7 +5720,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/백암-1/">
 										백암
-										<small>의산출장소 방향</small>
+										<small>의산보건진료소, 의산출장소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5792,7 +5792,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/벚꽃마을삼성아파트입구/">
 										벚꽃마을삼성아파트입구
-										<small>석동사거리 방향</small>
+										<small>자은주공아파트, 석동사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5804,7 +5804,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/벚꽃상가-1/">
 										벚꽃상가
-										<small>태백삼거리 방향</small>
+										<small>태백삼거리, 태백삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5822,7 +5822,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/벽산솔렌스힐아파트/">
 										벽산솔렌스힐아파트
-										<small>대동다숲.마린푸르지오2단지APT 방향</small>
+										<small>녹수아파트, 대동다숲.마린푸르지오2단지APT 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5846,19 +5846,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/병무청/">
 										병무청
-										<small>한국전력공사 방향</small>
+										<small>한국전력공사, 한국전력공사 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/병무청-1/">
 										병무청
-										<small>경남도의회 방향</small>
+										<small>경남도청, 경남도의회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/보건소/">
 										보건소
-										<small>방송통신대 방향</small>
+										<small>성지아울렛, 방송통신대 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5882,13 +5882,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/복음요양병원/">
 										복음요양병원
-										<small>구암동현대상가 방향</small>
+										<small>구암동, 구암동현대상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/본포마을/">
 										본포마을
-										<small>전촌 방향</small>
+										<small>본포입구, 전촌 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5900,13 +5900,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/본포마을회관/">
 										본포마을회관
-										<small>활천 방향</small>
+										<small>본포마을회관, 활천 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/본포마을회관-1/">
 										본포마을회관
-										<small>본포마을회관 방향</small>
+										<small>본포마을, 본포마을회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5918,13 +5918,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/본포입구-1/">
 										본포입구
-										<small>전촌 방향</small>
+										<small>가곡마을, 전촌 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/봉강/">
 										봉강
-										<small>용연입구 방향</small>
+										<small>원봉강, 용연입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5936,7 +5936,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉곡/">
 										봉곡
-										<small>봉곡리회관 방향</small>
+										<small>봉곡마을, 봉곡리회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5948,7 +5948,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉곡동상가입구/">
 										봉곡동상가입구
-										<small>시티7 방향</small>
+										<small>명서동허앤리병원, 시티7, 시티7 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5960,7 +5960,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉곡리회관/">
 										봉곡리회관
-										<small>봉곡 방향</small>
+										<small>봉곡마을, 봉곡 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -5984,7 +5984,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉곡마을-3/">
 										봉곡마을
-										<small>봉곡리회관 방향</small>
+										<small>봉곡, 봉곡리회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6002,7 +6002,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉곡상가입구/">
 										봉곡상가입구
-										<small>지귀상가 방향</small>
+										<small>까치아파트입구, 까치아파트, 봉곡상가, 지귀상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6038,13 +6038,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉덕초등학교-1/">
 										봉덕초등학교
-										<small>봉암동 방향</small>
+										<small>자유무역지역후문, 봉암동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/봉림중학교/">
 										봉림중학교
-										<small>장애인복지회관입구 방향</small>
+										<small>봉곡상가입구, 장애인복지회관입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6056,13 +6056,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉림휴먼시아/">
 										봉림휴먼시아
-										<small>휴먼시아2단지 방향</small>
+										<small>봉곡중학교, 휴먼시아2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/봉림휴먼시아-1/">
 										봉림휴먼시아
-										<small>휴먼시아2단지 방향</small>
+										<small>봉곡상가, 휴먼시아2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6074,19 +6074,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/봉암교-1/">
 										봉암교
-										<small>적현 방향</small>
+										<small>유신상가, 신촌삼거리, 적현 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/봉암동/">
 										봉암동
-										<small>봉덕초등학교 방향</small>
+										<small>자유무역지역후문, 봉덕초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/봉암동-1/">
 										봉암동
-										<small>㈜동방 방향</small>
+										<small>자유무역3공구, ㈜동방 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6152,13 +6152,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/부림시장/">
 										부림시장
-										<small>어시장 방향</small>
+										<small>KT서마산지점, 삼익맨션, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/부림시장-1/">
 										부림시장
-										<small>영남주차장 방향</small>
+										<small>북마산가구거리, 영남주차장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6236,7 +6236,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/부영13단지-1/">
 										부영13단지
-										<small>용원종점 방향</small>
+										<small>용원어시장, 용원종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6260,13 +6260,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/부영3차아파트/">
 										부영3차아파트
-										<small>청천마을 방향</small>
+										<small>해인로즈빌, 청천마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/부영4단지/">
 										부영4단지
-										<small>지앤지 방향</small>
+										<small>부영5/6단지, 지앤지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6278,13 +6278,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/부영5-6단지/">
 										부영5/6단지
-										<small>이지더원아파트/애플타운 방향</small>
+										<small>신항초등학교, 이지더원아파트/애플타운 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/부영8단지/">
 										부영8단지
-										<small>부영2단지 방향</small>
+										<small>신항초등학교, 부영2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6320,7 +6320,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/북면공설운동장/">
 										북면공설운동장
-										<small>마산리경노당 방향</small>
+										<small>마산리, 마산리경노당 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6332,7 +6332,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/북면농협/">
 										북면농협
-										<small>북면온천 방향</small>
+										<small>북면종점, 북면온천 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6362,7 +6362,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/북면사무소-1/">
 										북면사무소
-										<small>춘광아파트 방향</small>
+										<small>대호아파트, 춘광아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6392,13 +6392,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/북면연동/">
 										북면연동
-										<small>월계마을회관 방향</small>
+										<small>월계, 월계마을회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/북면연동-1/">
 										북면연동
-										<small>마산리경노당 방향</small>
+										<small>북면공설운동장, 마산리경노당 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6458,7 +6458,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/북모산마을-1/">
 										북모산마을
-										<small>북모산마을 방향</small>
+										<small>남모산, 북모산마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6470,7 +6470,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/북성초등학교/">
 										북성초등학교
-										<small>교도소입구 방향</small>
+										<small>보문주유소, 교도소입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6512,7 +6512,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/불모산/">
 										불모산
-										<small>대청1교 방향</small>
+										<small>신안마을, 윗상점, 대청1교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6571,13 +6571,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사단앞/">
 										사단앞
-										<small>도계주유소 방향</small>
+										<small>도계동만남의광장, 도계동.서부스포츠센터, 한마음아파트, 도계주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/사도마을/">
 										사도마을
-										<small>와성마을 방향</small>
+										<small>호반.리젠시빌란트, 와성마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6589,7 +6589,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사림동/">
 										사림동
-										<small>봉곡상가입구 방향</small>
+										<small>장애인복지회관입구, 봉곡상가입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6601,7 +6601,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사림동농협/">
 										사림동농협
-										<small>창원대삼거리 방향</small>
+										<small>우영프라자, 창원대삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6619,7 +6619,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사림민원센터-1/">
 										사림민원센터
-										<small>성심유치원 방향</small>
+										<small>창원대삼거리, 성심유치원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6637,7 +6637,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사파동/">
 										사파동
-										<small>상남교회 방향</small>
+										<small>사파동성아파트, 상남교회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6649,19 +6649,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사파동성아파트/">
 										사파동성아파트
-										<small>창원축구센타.법원 방향</small>
+										<small>사파동, 창원축구센타.법원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/사파동성아파트-1/">
 										사파동성아파트
-										<small>사파동주민센터 방향</small>
+										<small>대방3차아파트, 남양동성아파트, 남양성원2차아파트, 사파동주민센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/사파동주민센터/">
 										사파동주민센터
-										<small>사파동성아파트 방향</small>
+										<small>대방성원3차아파트, 사파동성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6685,7 +6685,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사파삼익아파트/">
 										사파삼익아파트
-										<small>토월대동 방향</small>
+										<small>대동백화점, 토월대동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6697,7 +6697,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/사파초등학교-1/">
 										사파초등학교
-										<small>사파동 방향</small>
+										<small>사파동성아파트, 사파동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6721,13 +6721,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/산남-1/">
 										산남
-										<small>죽동마을 방향</small>
+										<small>죽동, 죽동마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/산남입구/">
 										산남입구
-										<small>노옥마을 방향</small>
+										<small>용연, 노옥마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6787,7 +6787,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/산호동/">
 										산호동
-										<small>자유무역지역정문 방향</small>
+										<small>합포동, 자유무역지역정문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6799,7 +6799,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼계/">
 										삼계
-										<small>대동아파트 방향</small>
+										<small>삼계우체국, 대동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6811,7 +6811,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼계대동아파트/">
 										삼계대동아파트
-										<small>삼계 방향</small>
+										<small>삼계우체국, 삼계 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6847,13 +6847,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼계우체국-1/">
 										삼계우체국
-										<small>대동아파트 방향</small>
+										<small>삼계, 대동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/삼계주공아파트/">
 										삼계주공아파트
-										<small>장미아파트 방향</small>
+										<small>내서여고, 장미아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6895,7 +6895,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼동-1/">
 										삼동
-										<small>대원성원아파트 방향</small>
+										<small>충혼탑, 목련아파트, 대원성원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6913,7 +6913,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼봉마을/">
 										삼봉마을
-										<small>우암리 방향</small>
+										<small>대산중학교, 대산미곡처리장, 우암리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6937,13 +6937,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼성생명/">
 										삼성생명
-										<small>회원1동 방향</small>
+										<small>육호광장, 원불교교구청, 육호광장, 회원1동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/삼성생명-1/">
 										삼성생명
-										<small>어시장 방향</small>
+										<small>오동동문화광장, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6955,7 +6955,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼성창원병원-1/">
 										삼성창원병원
-										<small>창신대학교입구 방향</small>
+										<small>구암고등학교, 창신대학교입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -6997,7 +6997,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼익맨션/">
 										삼익맨션
-										<small>어시장 방향</small>
+										<small>KT서마산지점, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7015,7 +7015,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼정자내리마을/">
 										삼정자내리마을
-										<small>성주동종점 방향</small>
+										<small>내리, 성주동종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7045,13 +7045,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/삼진고등학교/">
 										삼진고등학교
-										<small>진동환승센타(종점) 방향</small>
+										<small>진동환승센타, 진동환승센타(종점) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/삼포/">
 										삼포
-										<small>삼포 방향</small>
+										<small>삼포입구, 삼포 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7117,7 +7117,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/상곡시장-1/">
 										상곡시장
-										<small>내서여고 방향</small>
+										<small>동남타운, 내서여고 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7129,19 +7129,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/상공회의소-1/">
 										상공회의소
-										<small>안민터널 방향</small>
+										<small>성주동종점, 롯데마트, 안민터널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/상남교회/">
 										상남교회
-										<small>사파초등학교 방향</small>
+										<small>사파삼익1차아파트, 사파초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/상남꿈에그린/">
 										상남꿈에그린
-										<small>창원남중 방향</small>
+										<small>S&amp;T중공업, 창원남중 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7165,7 +7165,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/상남도서관/">
 										상남도서관
-										<small>LG사원아파트 방향</small>
+										<small>더샵센트럴파크 2단지, LG사원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7213,7 +7213,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/상리마을-1/">
 										상리마을
-										<small>STX조선입구 방향</small>
+										<small>만남의광장, STX조선입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7387,7 +7387,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/새터교-1/">
 										새터교
-										<small>동정동갓골 방향</small>
+										<small>외감주유소, 동정동갓골 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7465,7 +7465,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/서마산시장/">
 										서마산시장
-										<small>무지개아파트 방향</small>
+										<small>무학여고, 석전사거리, 무지개아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7483,7 +7483,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/서부경찰서-원흥사-1/">
 										서부경찰서.원흥사
-										<small>명서다리.명곡교회 방향</small>
+										<small>명서초등학교, 명서초등학교, 명서다리.명곡교회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7495,25 +7495,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/서상삼거리/">
 										서상삼거리
-										<small>창원역 방향</small>
+										<small>창원역, 창원역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/서상삼거리-1/">
 										서상삼거리
-										<small>동정동 방향</small>
+										<small>참사랑병원 앞, 오성아파트, 벽산블루밍아파트, 동정동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/서안양덕타운/">
 										서안양덕타운
-										<small>우리누리청소년문화센터 방향</small>
+										<small>마산동부경찰서, 우리누리청소년문화센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/서안양덕타운-1/">
 										서안양덕타운
-										<small>양덕1동주민센타 방향</small>
+										<small>양덕초등학교, 양덕1동주민센타 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7603,13 +7603,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/석동사거리/">
 										석동사거리
-										<small>롯데마트 방향</small>
+										<small>진해경찰서, 롯데마트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/석동중학교/">
 										석동중학교
-										<small>석동농협 방향</small>
+										<small>대동아파트앞, 석동농협 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7639,7 +7639,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/석보아파트/">
 										석보아파트
-										<small>금강테니스장 방향</small>
+										<small>마산롯데캐슬동문, 금강테니스장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7657,13 +7657,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/석전동/">
 										석전동
-										<small>3.15아트센타 방향</small>
+										<small>경남은행본점, 3.15아트센타 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/석전동-1/">
 										석전동
-										<small>국제주유소 방향</small>
+										<small>석전사거리, 무학여고, 무지개아파트, 국제주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7681,7 +7681,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/석전사거리-1/">
 										석전사거리
-										<small>서마산시장 방향</small>
+										<small>석전동, 서마산시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7753,13 +7753,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성산구청/">
 										성산구청
-										<small>성주사역 방향</small>
+										<small>현대위아 창원4공장, 성주사역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/성산구청-1/">
 										성산구청
-										<small>성주프리빌리지아파트 방향</small>
+										<small>대방동성아파트, 가음정레포츠공원환승센터, 성주프리빌리지아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7771,7 +7771,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성산구청-성주동마을도서관-1/">
 										성산구청.성주동마을도서관
-										<small>대방동성아파트 방향</small>
+										<small>가음정레포츠공원환승센터, 대방동성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7783,7 +7783,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성산아트홀-1/">
 										성산아트홀
-										<small>이마트 방향</small>
+										<small>은아아파트, 정우상가, 이마트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7807,7 +7807,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성심유치원-1/">
 										성심유치원
-										<small>창원의집입구 방향</small>
+										<small>창원대삼거리, 사림민원센터, 창원의집입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7819,7 +7819,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성주동종점/">
 										성주동종점
-										<small>롯데마트 방향</small>
+										<small>상공회의소, 롯데마트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7831,7 +7831,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성주동주민센터/">
 										성주동주민센터
-										<small>성산구청 방향</small>
+										<small>태화기계, 성산구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7843,19 +7843,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성주사역-1/">
 										성주사역
-										<small>대동한솔아파트 방향</small>
+										<small>삼성그린빌, 한화디펜스, 대동한솔아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/성주초등학교/">
 										성주초등학교
-										<small>남산동 방향</small>
+										<small>남산버스정류소, 남산동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/성주프리빌리지아파트/">
 										성주프리빌리지아파트
-										<small>대방대동아파트 방향</small>
+										<small>대방그린빌아파트, 삼정자중학교, 대암고교, 대방대동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7867,7 +7867,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성지아울렛-1/">
 										성지아울렛
-										<small>방송통신대 방향</small>
+										<small>보건소, 방송통신대 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7885,7 +7885,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/성진3차아파트/">
 										성진3차아파트
-										<small>외단계마을 방향</small>
+										<small>성진5차아파트, 외단계마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7951,13 +7951,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/세스페데스공원/">
 										세스페데스공원
-										<small>호반베르디움 방향</small>
+										<small>시티1차.리젠시빌란트, 호반베르디움 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/세스페데스공원-1/">
 										세스페데스공원
-										<small>농업기술센터 방향</small>
+										<small>제덕마을, 제덕마을, 농업기술센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7969,13 +7969,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/세아제강-1/">
 										세아제강
-										<small>미래기전 방향</small>
+										<small>남창원역, 남창원역, 미래기전 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/세영리첼아파트/">
 										세영리첼아파트
-										<small>덕정공원 방향</small>
+										<small>덕정초등학교, 덕정공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -7987,37 +7987,37 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/세원셀론텍-영흥철강/">
 										세원셀론텍.영흥철강
-										<small>한국철강 방향</small>
+										<small>창곡입구, 한국철강 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/세원셀론텍-영흥철강-1/">
 										세원셀론텍.영흥철강
-										<small>대원성원아파트 방향</small>
+										<small>효성중공업, 셰풀러코리아, 대원성원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/세진테크원/">
 										세진테크원
-										<small>대방 방향</small>
+										<small>세진테크원, 대방 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/세진테크원-1/">
 										세진테크원
-										<small>가촌 방향</small>
+										<small>대산일반산업단지, 가촌 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/셰풀러코리아/">
 										셰풀러코리아
-										<small>삼동 방향</small>
+										<small>대원성원아파트, 삼동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/셰풀러코리아-1/">
 										셰풀러코리아
-										<small>효성중공업 방향</small>
+										<small>세원셀론텍.영흥철강, 효성중공업 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8041,7 +8041,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/소계로터리-1/">
 										소계로터리
-										<small>경남테크노파크 방향</small>
+										<small>창원역, 경남테크노파크 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8053,13 +8053,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/소계시장-1/">
 										소계시장
-										<small>소계종점 방향</small>
+										<small>소계종점, 소계종점, 소계종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/소계입구/">
 										소계입구
-										<small>소계로터리 방향</small>
+										<small>대지아파트, 소계로터리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8071,13 +8071,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/소계종점-1/">
 										소계종점
-										<small>창원역 방향</small>
+										<small>창원역, 천주암, 창원역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/소계종점/">
 										소계종점
-										<small>소계종점 방향</small>
+										<small>사화초등학교, 소계종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8101,13 +8101,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/소답상가/">
 										소답상가
-										<small>소답온천 방향</small>
+										<small>동일그린맨션, 소답온천 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/소답온천/">
 										소답온천
-										<small>도계주유소 방향</small>
+										<small>도계동.서부스포츠센터, 한마음아파트, 도계주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8119,13 +8119,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/소답초등학교/">
 										소답초등학교
-										<small>창원초등학교 방향</small>
+										<small>향교입구, 창원초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/소라/">
 										소라
-										<small>어유골 방향</small>
+										<small>삼원효도마을, 어유골 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8137,7 +8137,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/소라아파트/">
 										소라아파트
-										<small>가음은아아파트 방향</small>
+										<small>가음정사거리, 가음은아아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8197,13 +8197,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/송정마을/">
 										송정마을
-										<small>가주동시내버스회차지 방향</small>
+										<small>검문소, 가주동시내버스회차지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/송정종점/">
 										송정종점
-										<small>송정종점 방향</small>
+										<small>일동초등학교, 평리, 송정종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8221,13 +8221,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/수곡/">
 										수곡
-										<small>마산대학교종점 방향</small>
+										<small>제일고등학교, 마산대학교종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/수곡-1/">
 										수곡
-										<small>죽암 방향</small>
+										<small>마산대학교정문, 죽암 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8359,13 +8359,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/수협경남금융본부/">
 										수협경남금융본부
-										<small>경창상가 방향</small>
+										<small>상남시장, 경창상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/수협경남금융본부-1/">
 										수협경남금융본부
-										<small>은아아파트 방향</small>
+										<small>창원시청, 은아아파트후문, 창원중부경찰서, 은아아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8455,7 +8455,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/시립마산요양병원-1/">
 										시립마산요양병원
-										<small>월영아파트종점 방향</small>
+										<small>우산마을, 월영아파트종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8473,7 +8473,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/시민생활체육관/">
 										시민생활체육관
-										<small>수협경남금융본부 방향</small>
+										<small>은아아파트, 수협경남금융본부 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8497,7 +8497,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/시티1차/">
 										시티1차
-										<small>시티프라디움2차 방향</small>
+										<small>세스페데스공원, 시티프라디움2차 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8515,13 +8515,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/시티7-1/">
 										시티7
-										<small>농협하나로클럽 방향</small>
+										<small>명서동허앤리병원, 농업기술센터, 농협하나로클럽 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/시티7-2/">
 										시티7
-										<small>문성고등학교 방향</small>
+										<small>창원컨벤션센터, 문성고등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8533,13 +8533,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/시티프라디움2차/">
 										시티프라디움2차
-										<small>웅천동 방향</small>
+										<small>제이원빌딩, 웅천동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/시티프라디움2차-1/">
 										시티프라디움2차
-										<small>시티1차.리젠시빌란트 방향</small>
+										<small>호반베르디움, 시티1차.리젠시빌란트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8605,7 +8605,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신기마을입구-1/">
 										신기마을입구
-										<small>진동 방향</small>
+										<small>진동환승센타(종점), 진동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8629,7 +8629,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신동/">
 										신동
-										<small>무곡리 방향</small>
+										<small>신동이주단지, 무곡리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8773,7 +8773,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신세계백화점-1/">
 										신세계백화점
-										<small>자유무역지역후문 방향</small>
+										<small>고속버스터미널, 야구장앞홈플러스, 자유무역지역후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8827,13 +8827,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신용삼거리/">
 										신용삼거리
-										<small>신용마을 방향</small>
+										<small>제암요양병원, 신용마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/신용삼거리-1/">
 										신용삼거리
-										<small>설창 방향</small>
+										<small>진영종점, 설창 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8857,7 +8857,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신우타워-1/">
 										신우타워
-										<small>하은교회 방향</small>
+										<small>평성종점, 하은교회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8869,7 +8869,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신월경남아파트-1/">
 										신월경남아파트
-										<small>마산여고2 방향</small>
+										<small>마산여고, 마산여고2 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8941,7 +8941,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신전-1/">
 										신전
-										<small>갈전리 방향</small>
+										<small>신전입구, 갈전리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -8977,7 +8977,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신촌공단-1/">
 										신촌공단
-										<small>망곡마을 방향</small>
+										<small>부평마을, 망곡마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9007,7 +9007,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신촌삼거리/">
 										신촌삼거리
-										<small>유신상가 방향</small>
+										<small>봉암교, 유신상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9019,7 +9019,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신촌주유소/">
 										신촌주유소
-										<small>중리 방향</small>
+										<small>대호아파트, 중리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9031,7 +9031,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/신촌회차장/">
 										신촌회차장
-										<small>신촌회차장 방향</small>
+										<small>신촌공단, 신촌회차장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9264,7 +9264,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안계초등학교/">
 										안계초등학교
-										<small>안계초등학교 방향</small>
+										<small>너울림빌라, 안계초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9300,7 +9300,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안골버스회차지/">
 										안골버스회차지
-										<small>부영2차아파트 방향</small>
+										<small>청천마을, 안청초등학교정문, 부영2차아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9318,13 +9318,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안골포초등학교-1/">
 										안골포초등학교
-										<small>용원하나로마트 방향</small>
+										<small>부영3차아파트, 용원하나로마트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/안남중학교/">
 										안남중학교
-										<small>대방동성아파트 방향</small>
+										<small>대방동성아파트, 대방동종점, 성주프리빌리지아파트, 대방동성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9402,7 +9402,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안민초등학교/">
 										안민초등학교
-										<small>대동한솔아파트 방향</small>
+										<small>신우에이스타운, 대동한솔아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9426,7 +9426,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안민터널/">
 										안민터널
-										<small>한화디펜스 방향</small>
+										<small>성주동종점, 한화디펜스 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9462,13 +9462,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안성종점-1/">
 										안성종점
-										<small>안성새터마을 방향</small>
+										<small>안성종점, 안성새터마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/안신천/">
 										안신천
-										<small>명촌 방향</small>
+										<small>대촌.화촌초교, 명촌 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9480,7 +9480,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안청초등학교/">
 										안청초등학교
-										<small>안청초등학교정문 방향</small>
+										<small>웅동농협하나로마트, 안청초등학교정문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9492,7 +9492,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/안청초등학교정문/">
 										안청초등학교정문
-										<small>안청초등학교 방향</small>
+										<small>웅동농협하나로마트, 안청초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9552,25 +9552,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/야구장-마산회원구청/">
 										야구장.마산회원구청
-										<small>여성회관 방향</small>
+										<small>동마산주유소, 여성회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/야구장-마산회원구청-1/">
 										야구장.마산회원구청
-										<small>메트로시티2단지 방향</small>
+										<small>문화방송, 야구장앞홈플러스, 메트로시티2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/야구장앞홈플러스/">
 										야구장앞홈플러스
-										<small>메트로시티2단지 방향</small>
+										<small>문화방송, 메트로시티2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/야구장앞홈플러스-1/">
 										야구장앞홈플러스
-										<small>신세계백화점 방향</small>
+										<small>자유무역지역후문, 신세계백화점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9606,13 +9606,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/약수터/">
 										약수터
-										<small>전원아파트 방향</small>
+										<small>한우아파트, 전원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/약수터-1/">
 										약수터
-										<small>서원곡입구 방향</small>
+										<small>합포고등학교, 서원곡입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9636,13 +9636,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/양곡상가/">
 										양곡상가
-										<small>유신상가 방향</small>
+										<small>신촌동성아파트, 유신상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/양곡상가-1/">
 										양곡상가
-										<small>경화동 방향</small>
+										<small>양곡중학교, 경화동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9654,7 +9654,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/양곡중학교-1/">
 										양곡중학교
-										<small>오봉사입구 방향</small>
+										<small>웅남주민운동장, 양곡로, 오봉사입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9684,19 +9684,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/양덕1동주민센타/">
 										양덕1동주민센타
-										<small>서안양덕타운 방향</small>
+										<small>양덕초등학교, 서안양덕타운 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/양덕1동주민센타-1/">
 										양덕1동주민센타
-										<small>메트로시티2단지 방향</small>
+										<small>타워맨션, 한일타운, 메트로시티2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/양덕초등학교/">
 										양덕초등학교
-										<small>양덕1동 방향</small>
+										<small>서안양덕타운, 양덕1동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9708,7 +9708,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/양촌리/">
 										양촌리
-										<small>일암종점 방향</small>
+										<small>계양, 일암종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9726,13 +9726,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/양평-1/">
 										양평
-										<small>로봇랜드 방향</small>
+										<small>난포 소골, 로봇랜드 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/어반브릭스/">
 										어반브릭스
-										<small>창원과학고등학교 방향</small>
+										<small>중동초등학교, 창원과학고등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9744,37 +9744,37 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/어시장/">
 										어시장
-										<small>자유무역지역정문 방향</small>
+										<small>오동동아구찜거리, 오동동, 자유무역지역정문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/어시장-1/">
 										어시장
-										<small>자유무역지역정문 방향</small>
+										<small>오동동아구찜거리, 오동동, 자유무역지역정문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/어시장-2/">
 										어시장
-										<small>KT서마산지점 방향</small>
+										<small>삼익맨션, KT서마산지점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/어시장-3/">
 										어시장
-										<small>삼익맨션 방향</small>
+										<small>KT서마산지점, 이마트, KT서마산지점, 삼익맨션 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/어시장-4/">
 										어시장
-										<small>삼성생명 방향</small>
+										<small>불종로이인창치과, 오동동아구찜거리, 삼성생명 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/어시장-5/">
 										어시장
-										<small>마산합포구청.의료원 방향</small>
+										<small>경남데파트, 마산합포구청.의료원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9810,7 +9810,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/어은동/">
 										어은동
-										<small>STX조선입구 방향</small>
+										<small>진해구 어은입구, STX조선입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9858,7 +9858,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/여성회관/">
 										여성회관
-										<small>야구장.마산회원구청 방향</small>
+										<small>동마산주유소, 야구장.마산회원구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9870,7 +9870,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/여성회관창원관/">
 										여성회관창원관
-										<small>남산초등학교 방향</small>
+										<small>피오르빌아파트, 남산초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9888,7 +9888,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/여좌농협/">
 										여좌농협
-										<small>중앙시장 방향</small>
+										<small>진해수협, 중앙시장, 중앙시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9924,7 +9924,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/여좌신협/">
 										여좌신협
-										<small>진해수협 방향</small>
+										<small>여좌농협, 진해수협 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9942,7 +9942,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/역전치안센터/">
 										역전치안센터
-										<small>마산역.동마산병원 방향</small>
+										<small>마산역종점, 마산역, 마산역.동마산병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -9984,13 +9984,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/연세병원/">
 										연세병원
-										<small>경남대남부터미널종점 방향</small>
+										<small>문화동, 경남대남부터미널종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/연세병원-1/">
 										연세병원
-										<small>마산합포구청.의료원 방향</small>
+										<small>반월민원센터, 중부경찰서, 마산합포구청.의료원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10020,7 +10020,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/영길운동장/">
 										영길운동장
-										<small>마천산업단지 방향</small>
+										<small>㈜대륜기업, 마천산업단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10104,7 +10104,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/예곡-3/">
 										예곡
-										<small>밤밭고개 방향</small>
+										<small>옥동마을, 밤밭고개 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10182,13 +10182,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/오동동문화광장/">
 										오동동문화광장
-										<small>어시장 방향</small>
+										<small>어시장, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/오동동아구찜거리/">
 										오동동아구찜거리
-										<small>어시장 방향</small>
+										<small>어시장, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10230,7 +10230,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/오산마을/">
 										오산마을
-										<small>진동면허시험장 방향</small>
+										<small>야촌마을, 진동면허시험장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10272,19 +10272,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/오성아파트-1/">
 										오성아파트
-										<small>동정동 방향</small>
+										<small>흥한웰가아파트, 동정동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/오솔길-농장/">
 										오솔길 농장
-										<small>세몰마을 입구 방향</small>
+										<small>세몰마을, 세몰마을 입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/오솔길-농장-1/">
 										오솔길 농장
-										<small>예곡 방향</small>
+										<small>예곡마을, 예곡, 예곡 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10326,7 +10326,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/옥곡마을/">
 										옥곡마을
-										<small>진전신기 방향</small>
+										<small>근곡마을, 진전신기 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10338,7 +10338,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/옥동-1/">
 										옥동
-										<small>오솔길 농장 방향</small>
+										<small>우산마을, 오솔길 농장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10350,7 +10350,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/올림픽공원/">
 										올림픽공원
-										<small>대원성원아파트 방향</small>
+										<small>충혼탑, 삼동, 대원성원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10362,19 +10362,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/와성/">
 										와성
-										<small>세스페데스공원 방향</small>
+										<small>시티프라디움2차, 세스페데스공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/와성마을/">
 										와성마을
-										<small>사도마을 방향</small>
+										<small>호반.리젠시빌란트, 사도마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/완월동/">
 										완월동
-										<small>한우아파트 방향</small>
+										<small>완월초등학교, 한우아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10386,13 +10386,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/완월초등학교/">
 										완월초등학교
-										<small>한우아파트 방향</small>
+										<small>완월동, 한우아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/완월초등학교-1/">
 										완월초등학교
-										<small>경남데파트 방향</small>
+										<small>경남데파트, 경남데파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10434,7 +10434,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/외감입구-2/">
 										외감입구
-										<small>외감주유소 방향</small>
+										<small>외감, 외감주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10446,7 +10446,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/외감주유소-1/">
 										외감주유소
-										<small>새터교 방향</small>
+										<small>화천리, 새터교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10644,7 +10644,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/용마고등학교/">
 										용마고등학교
-										<small>합포동 방향</small>
+										<small>자유무역지역정문, 구)가야백화점, 합포동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10656,7 +10656,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/용마정비/">
 										용마정비
-										<small>중리삼거리 방향</small>
+										<small>로봇산업진흥재단, 중리삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10776,7 +10776,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/용원동-1/">
 										용원동
-										<small>용원사거리 방향</small>
+										<small>용원초등학교, 용원사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10818,19 +10818,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/용원어시장-1/">
 										용원어시장
-										<small>용원초등학교 방향</small>
+										<small>용원종점, 용원초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/용원종점/">
 										용원종점
-										<small>용원동 방향</small>
+										<small>용원초등학교, 용원동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/용원종점-1/">
 										용원종점
-										<small>용원초등학교 방향</small>
+										<small>용원어시장, 용원초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10842,7 +10842,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/용원초교/">
 										용원초교
-										<small>용원종점(회차) 방향</small>
+										<small>용원어시장, 용원종점, 용원종점(회차) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10854,7 +10854,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/용원초등학교-1/">
 										용원초등학교
-										<small>용원종점(회차) 방향</small>
+										<small>용원초교, 용원사거리, 용원사거리, 부영13단지, 용원종점(회차) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10872,13 +10872,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/용원휴요양병원/">
 										용원휴요양병원
-										<small>해인로즈빌 방향</small>
+										<small>두동약수터, 해인로즈빌 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/용원휴요양병원-1/">
 										용원휴요양병원
-										<small>의곡마을 방향</small>
+										<small>웅동중학교, 의곡마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -10992,7 +10992,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/우리누리청소년문화센터/">
 										우리누리청소년문화센터
-										<small>서안양덕타운 방향</small>
+										<small>마산동부경찰서, 서안양덕타운 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11022,13 +11022,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/우산마을/">
 										우산마을
-										<small>청량산터널앞 방향</small>
+										<small>밤밭고개, 청량산터널앞 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/우산마을-1/">
 										우산마을
-										<small>현동입구 방향</small>
+										<small>시립마산요양병원, 현동입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11046,13 +11046,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/우성아파트-2/">
 										우성아파트
-										<small>우성아파트 방향</small>
+										<small>무점입구, 무점종점, 우성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/우성아파트-3/">
 										우성아파트
-										<small>좌곤육교 방향</small>
+										<small>무성마을입구, 좌곤육교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11064,7 +11064,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/우성아파트-1/">
 										우성아파트
-										<small>우성아파트 후문 방향</small>
+										<small>덕산동, 풍호농협, 우성아파트 후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11082,7 +11082,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/우성아파트-아이존빌입구/">
 										우성아파트.아이존빌입구
-										<small>진해구청.장전주유소 방향</small>
+										<small>풍호동주민센터, 풍호동사거리, 진해구청.장전주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11118,7 +11118,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/우영프라자/">
 										우영프라자
-										<small>창원대삼거리 방향</small>
+										<small>사림동농협, 창원대삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11136,7 +11136,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/욱곡-1/">
 										욱곡
-										<small>욱곡입구 방향</small>
+										<small>망향정입구, 욱곡입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11184,7 +11184,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/욱곡입구/">
 										욱곡입구
-										<small>욱곡 방향</small>
+										<small>망향정입구, 욱곡 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11202,13 +11202,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/운동장사거리/">
 										운동장사거리
-										<small>창원문성대학교 방향</small>
+										<small>창원종합운동장, 창원문성대학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/운동장사거리-1/">
 										운동장사거리
-										<small>반지민원센타 방향</small>
+										<small>럭키상가, 럭키아파트, 반지민원센타 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11250,7 +11250,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/웅동-1/">
 										웅동
-										<small>부암마을 방향</small>
+										<small>마천공단입구, 부암마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11268,19 +11268,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/웅동농협앞/">
 										웅동농협앞
-										<small>청안해오름 방향</small>
+										<small>내곡마을, 청안해오름 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/웅동농협앞-1/">
 										웅동농협앞
-										<small>마천공단입구 방향</small>
+										<small>웅동, 마천공단입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/웅동농협하나로마트/">
 										웅동농협하나로마트
-										<small>안청초등학교정문 방향</small>
+										<small>안청초등학교, 안청초등학교정문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11292,7 +11292,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/웅동중학교/">
 										웅동중학교
-										<small>의곡마을 방향</small>
+										<small>용원휴요양병원, 의곡마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11322,13 +11322,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/웅천동/">
 										웅천동
-										<small>시티프라디움2차 방향</small>
+										<small>농업기술센터, 시티프라디움2차 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/웅천동-1/">
 										웅천동
-										<small>천자봉공원묘원 방향</small>
+										<small>서중소류지, 천자봉공원묘원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11358,13 +11358,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/웅천우체국/">
 										웅천우체국
-										<small>남문지구(임시) 방향</small>
+										<small>웅천동, 남문지구(임시) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/웅천치안센터/">
 										웅천치안센터
-										<small>웅천동주민센터 방향</small>
+										<small>웅천고등학교, 웅천동, 웅천동주민센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11376,7 +11376,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/원계-1/">
 										원계
-										<small>한우리아파트 방향</small>
+										<small>롯데마트, 한우리아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11388,7 +11388,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/원봉강-1/">
 										원봉강
-										<small>전촌입구 방향</small>
+										<small>전촌입구, 전촌입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11400,13 +11400,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/원불교교구청-1/">
 										원불교교구청
-										<small>성호동 방향</small>
+										<small>노비산입구, 성호동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/원불교교구청-2/">
 										원불교교구청
-										<small>육호광장 방향</small>
+										<small>삼성생명, 육호광장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11442,13 +11442,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월계/">
 										월계
-										<small>월계마을회관 방향</small>
+										<small>북면연동, 월계마을회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/월계-1/">
 										월계
-										<small>북면물재생센터 방향</small>
+										<small>가곡마을, 북면물재생센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11460,7 +11460,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월계마을회관-1/">
 										월계마을회관
-										<small>월계 방향</small>
+										<small>북면연동, 월계 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11490,7 +11490,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월드메르디앙아파트/">
 										월드메르디앙아파트
-										<small>동전리 방향</small>
+										<small>동전, 동전리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11508,7 +11508,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월림마을/">
 										월림마을
-										<small>덕현 방향</small>
+										<small>우암리, 덕현 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11520,7 +11520,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월산-1/">
 										월산
-										<small>남백 방향</small>
+										<small>남백, 남백 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11562,7 +11562,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월영동-1/">
 										월영동
-										<small>경남대남부터미널종점 방향</small>
+										<small>경남대학교, GS마트, 경남대남부터미널종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11580,13 +11580,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월영아파트종점/">
 										월영아파트종점
-										<small>남부터미널 방향</small>
+										<small>해운초등학교, 남부터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/월영아파트종점-1/">
 										월영아파트종점
-										<small>시립마산요양병원 방향</small>
+										<small>청량산터널앞, 월영아파트종점, 시립마산요양병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11616,7 +11616,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/월촌교/">
 										월촌교
-										<small>까치골 방향</small>
+										<small>동전입구, 까치골 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11640,7 +11640,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/윗대방/">
 										윗대방
-										<small>죽동마을 방향</small>
+										<small>죽동, 죽동마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11790,7 +11790,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/유산마을입구-1/">
 										유산마을입구
-										<small>하수도사업소 방향</small>
+										<small>덕동공영차고지, 하수도사업소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11820,13 +11820,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/유신상가/">
 										유신상가
-										<small>적현 방향</small>
+										<small>봉암교, 신촌삼거리, 적현 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/유신상가-1/">
 										유신상가
-										<small>양곡상가 방향</small>
+										<small>신촌동성아파트, 양곡상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11850,7 +11850,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/유청-1/">
 										유청
-										<small>동부마을 방향</small>
+										<small>동곡, 덕현, 덕현마을, 동부마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11862,25 +11862,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/육호광장-1/">
 										육호광장
-										<small>원불교교구청 방향</small>
+										<small>육호광장, 원불교교구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/육호광장-2/">
 										육호광장
-										<small>육호광장 방향</small>
+										<small>영남주차장, 삼성생명, 육호광장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/육호광장-3/">
 										육호광장
-										<small>여성회관 방향</small>
+										<small>버스회관, 여성회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/윤병원/">
 										윤병원
-										<small>태광주유소(회차) 방향</small>
+										<small>태광주유소, 동정동, 창원여중, 태광주유소(회차) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11946,13 +11946,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/은아아파트/">
 										은아아파트
-										<small>정우상가 방향</small>
+										<small>창원시청, 창원중부경찰서, 정우상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/은아아파트-1/">
 										은아아파트
-										<small>대동백화점 방향</small>
+										<small>시민생활체육관, 대동백화점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11964,19 +11964,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/은아아파트후문-1/">
 										은아아파트후문
-										<small>창원중부경찰서 방향</small>
+										<small>수협경남금융본부, 창원중부경찰서 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/의곡마을/">
 										의곡마을
-										<small>용원휴요양병원 방향</small>
+										<small>웅동중학교, 목우언덕, 용원휴요양병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/의곡마을-1/">
 										의곡마을
-										<small>두동 방향</small>
+										<small>청안해오름, 두동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -11994,7 +11994,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/의산보건진료소-1/">
 										의산보건진료소
-										<small>의산출장소 방향</small>
+										<small>백암, 의산출장소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12036,13 +12036,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/의창동환승센터/">
 										의창동환승센터
-										<small>창원역 방향</small>
+										<small>윤병원, 창원역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/의창동환승센터-1/">
 										의창동환승센터
-										<small>도계주유소 방향</small>
+										<small>사단앞, 중동초등학교, 도계주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12066,13 +12066,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/이동119안전센터-1/">
 										이동119안전센터
-										<small>이동 방향</small>
+										<small>진해골프장입구, 이동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/이동교/">
 										이동교
-										<small>이동 방향</small>
+										<small>이동119안전센터, 이동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12096,7 +12096,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/이마트/">
 										이마트
-										<small>어시장 방향</small>
+										<small>삼익맨션, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12108,7 +12108,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/이마트-2/">
 										이마트
-										<small>성산아트홀 방향</small>
+										<small>은아아파트, 성산아트홀 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12168,7 +12168,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/이미지아파트입구/">
 										이미지아파트입구
-										<small>삼계대동아파트 방향</small>
+										<small>대동이미지아파트, 삼계대동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12186,7 +12186,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/이지더원아파트-애플타운/">
 										이지더원아파트/애플타운
-										<small>동방물류센터 방향</small>
+										<small>부영13단지, 동방물류센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12336,7 +12336,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/임곡마을-1/">
 										임곡마을
-										<small>임곡삼거리 방향</small>
+										<small>국군마산병원, 임곡삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12348,13 +12348,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/임곡삼거리-1/">
 										임곡삼거리
-										<small>오서입구 방향</small>
+										<small>도산마을, 오서입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/임마뉴엘교회/">
 										임마뉴엘교회
-										<small>남양성원2차아파트 방향</small>
+										<small>남양성원2차아파트, 대방초등학교, 남양성원2차아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12419,7 +12419,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/자동차검사장/">
 										자동차검사장
-										<small>창원농산물도매시장 방향</small>
+										<small>창원공고.도로교통공단, 창원종합터미널, 창원농산물도매시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12431,13 +12431,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/자여민원센터/">
 										자여민원센터
-										<small>자여입구 방향</small>
+										<small>자여입구(회차), 자여입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/자여입구/">
 										자여입구
-										<small>무성마을입구 방향</small>
+										<small>동읍지구대, 무성마을입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12461,19 +12461,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/자유무역3공구/">
 										자유무역3공구
-										<small>자유무역지역후문 방향</small>
+										<small>봉암동, 자유무역지역후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/자유무역3공구-1/">
 										자유무역3공구
-										<small>자유무역지역2공구 방향</small>
+										<small>정다운요양병원, 자유무역지역2공구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/자유무역지역2공구/">
 										자유무역지역2공구
-										<small>자유무역3공구 방향</small>
+										<small>봉암수원지입구, 자유무역3공구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12485,25 +12485,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/자유무역지역정문/">
 										자유무역지역정문
-										<small>어시장 방향</small>
+										<small>오동교, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/자유무역지역정문-1/">
 										자유무역지역정문
-										<small>산호동 방향</small>
+										<small>합포동, 용마고등학교, 산호동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/자유무역지역후문/">
 										자유무역지역후문
-										<small>고속버스터미널 방향</small>
+										<small>야구장앞홈플러스, 신세계백화점, 야구장.마산회원구청, 고속버스터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/자유무역지역후문-1/">
 										자유무역지역후문
-										<small>자유무역3공구 방향</small>
+										<small>봉덕초등학교, 봉암동, 자유무역3공구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12533,7 +12533,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/자은본동/">
 										자은본동
-										<small>덕산해군아파트 방향</small>
+										<small>자은포스코, 덕산해군아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12545,7 +12545,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/자은주공아파트/">
 										자은주공아파트
-										<small>자은주공후문 방향</small>
+										<small>석동사거리, 자은주공후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12635,7 +12635,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/장등/">
 										장등
-										<small>삼봉마을 방향</small>
+										<small>장등입구, 상포, 삼봉마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12683,25 +12683,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/장미공원/">
 										장미공원
-										<small>가음정사거리 방향</small>
+										<small>가음정본동, 가음정사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/장미아파트/">
 										장미아파트
-										<small>청아병원 방향</small>
+										<small>내서중학교, 청아병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/장미아파트-1/">
 										장미아파트
-										<small>더푸른아파트 방향</small>
+										<small>내서여고, 상곡시장, 더푸른아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/장미파크맨션/">
 										장미파크맨션
-										<small>동신아파트 방향</small>
+										<small>농산물도매시장입구, 동신아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12761,7 +12761,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/장유농협/">
 										장유농협
-										<small>대동1단지 방향</small>
+										<small>남명더라우, 대동1단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12839,19 +12839,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/장유초등학교-1/">
 										장유초등학교
-										<small>코아상가 방향</small>
+										<small>장유석봉마을, 코아상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/장천동-이순신리더쉽국제센터/">
 										장천동.이순신리더쉽국제센터
-										<small>마린푸르지오1단지.신광아파트 방향</small>
+										<small>풍호동평화마을, 마린푸르지오1단지.신광아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/장천동-이순신리더쉽국제센터-1/">
 										장천동.이순신리더쉽국제센터
-										<small>장천초교입구 방향</small>
+										<small>장천동(종점), 대동다숲.마린푸르지오2단지APT, 장천동(종점), 장천초교입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12893,7 +12893,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/재료연구소/">
 										재료연구소
-										<small>창원병원 방향</small>
+										<small>창원병원, 창원병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12911,7 +12911,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/적현-1/">
 										적현
-										<small>봉암교 방향</small>
+										<small>유신상가, 봉암교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -12929,19 +12929,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/전원아파트/">
 										전원아파트
-										<small>청구제네스A 방향</small>
+										<small>완월화인아파트, 청구제네스A 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/전원아파트-1/">
 										전원아파트
-										<small>약수터 방향</small>
+										<small>한우아파트, 약수터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/전촌/">
 										전촌
-										<small>본포마을 방향</small>
+										<small>본포입구, 본포마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13031,7 +13031,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/정부합동청사-1/">
 										정부합동청사
-										<small>마산소방서 방향</small>
+										<small>이마트, 마산소방서 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13049,7 +13049,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/정우상가/">
 										정우상가
-										<small>트리비앙아파트 방향</small>
+										<small>중앙고등학교, 트리비앙아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13163,7 +13163,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/제동마을-1/">
 										제동마을
-										<small>우암리 방향</small>
+										<small>삼봉마을, 대산미곡처리장, 우암리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13181,7 +13181,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/제암요양병원-1/">
 										제암요양병원
-										<small>신용마을 방향</small>
+										<small>신용삼거리, 신용마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13205,13 +13205,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/제일고등학교/">
 										제일고등학교
-										<small>진영협성휴포레 방향</small>
+										<small>기영아파트, 진영협성휴포레 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/제일여고/">
 										제일여고
-										<small>문화동 방향</small>
+										<small>평화아파트, 문화동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13313,7 +13313,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/주남/">
 										주남
-										<small>신등초교 방향</small>
+										<small>신등초등학교, 신등초교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13463,19 +13463,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/죽동마을/">
 										죽동마을
-										<small>합산 방향</small>
+										<small>산남, 합산 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/죽동마을-1/">
 										죽동마을
-										<small>윗대방 방향</small>
+										<small>죽동당산마을, 윗대방 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/죽암/">
 										죽암
-										<small>수곡 방향</small>
+										<small>마산대학교정문, 수곡 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13523,37 +13523,37 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/중리경로당/">
 										중리경로당
-										<small>신촌주유소 방향</small>
+										<small>대호아파트, 신촌주유소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중리본동/">
 										중리본동
-										<small>청아병원 방향</small>
+										<small>서광맨션, 동신아파트, 중리역, 청아병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중리삼거리/">
 										중리삼거리
-										<small>용마정비 방향</small>
+										<small>한주아파트, 현대아파트, 용마정비 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중리삼거리-1/">
 										중리삼거리
-										<small>내서초등학교 방향</small>
+										<small>구슬골, 내서초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중리역/">
 										중리역
-										<small>농산물도매시장입구 방향</small>
+										<small>동신아파트, 농산물도매시장입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중리역-1/">
 										중리역
-										<small>한주아파트입구 방향</small>
+										<small>한주아파트, 한주아파트입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13583,13 +13583,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/중부경찰서/">
 										중부경찰서
-										<small>연세병원 방향</small>
+										<small>반월민원센터, 연세병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중부경찰서-1/">
 										중부경찰서
-										<small>마산합포구청.의료원 방향</small>
+										<small>경동메르빌, 마산합포구청.의료원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13607,43 +13607,43 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙고등학교/">
 										중앙고등학교
-										<small>반림현대건설아파트 방향</small>
+										<small>트리비앙아파트, 반림현대건설아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙고등학교-1/">
 										중앙고등학교
-										<small>성산아트홀 방향</small>
+										<small>창원시청.한서병원, 성산아트홀 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙동/">
 										중앙동
-										<small>우리은행 방향</small>
+										<small>창원호텔, 우리은행 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙동-1/">
 										중앙동
-										<small>이마트 방향</small>
+										<small>정우상가, 이마트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙동주민센터/">
 										중앙동주민센터
-										<small>북원로타리 방향</small>
+										<small>미고문단앞, 북원로타리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙동주민센터-1/">
 										중앙동주민센터
-										<small>공설운동장(드림빌) 방향</small>
+										<small>공설운동장, 공설운동장(드림빌) 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙시장/">
 										중앙시장
-										<small>진해수협 방향</small>
+										<small>여좌농협, 해양극장, 진해수협 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13655,7 +13655,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/중앙시장-1/">
 										중앙시장
-										<small>금화맨션 방향</small>
+										<small>벚꽃상가, 금화맨션 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13721,7 +13721,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/중초삼거리/">
 										중초삼거리
-										<small>중앙초등학교 방향</small>
+										<small>태백삼거리, 중앙초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13745,7 +13745,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/중포마을/">
 										중포마을
-										<small>대산미곡처리장 방향</small>
+										<small>상포, 대산미곡처리장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13787,7 +13787,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/지개리입구-1/">
 										지개리입구
-										<small>외감입구 방향</small>
+										<small>외감입구, 외감입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13799,19 +13799,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/지귀상가/">
 										지귀상가
-										<small>창원종합터미널 방향</small>
+										<small>유목교, 봉곡코오롱아파트, 농협하나로클럽, 창원종합터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/지귀상가-1/">
 										지귀상가
-										<small>대동그린코아 방향</small>
+										<small>까치아파트입구, 반지사거리, 봉곡중학교, 대동그린코아 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/지능기계센터/">
 										지능기계센터
-										<small>원계 방향</small>
+										<small>크라운제과, 원계 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13865,13 +13865,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진동-1/">
 										진동
-										<small>야촌마을회관 방향</small>
+										<small>야촌마을, 진동유엔아이APT, 야촌마을회관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/진동면허시험장/">
 										진동면허시험장
-										<small>덕기마을 방향</small>
+										<small>오산마을, 덕기마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13895,7 +13895,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진동우체국/">
 										진동우체국
-										<small>야촌마을 방향</small>
+										<small>진동환승센타(종점), 야촌마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13913,13 +13913,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진동환승센타/">
 										진동환승센타
-										<small>신기마을입구 방향</small>
+										<small>진동시장, 진동, 창의탑, 신기마을입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/진동환승센타-종점/">
 										진동환승센타(종점)
-										<small>진동환승센타 방향</small>
+										<small>창의탑, 진동환승센타 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13937,7 +13937,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진목마을/">
 										진목마을
-										<small>암하 방향</small>
+										<small>근곡마을, 암하 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -13949,19 +13949,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진북면사무소/">
 										진북면사무소
-										<small>진북면사무소 방향</small>
+										<small>해병전첩비, 진북면사무소 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/진북면사무소-1/">
 										진북면사무소
-										<small>덕곡입구 방향</small>
+										<small>동촌, 덕곡입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/진북면사무소-2/">
 										진북면사무소
-										<small>서촌 방향</small>
+										<small>진북면사무소, 서촌 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14027,7 +14027,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진영삼성아파트/">
 										진영삼성아파트
-										<small>진영역 방향</small>
+										<small>서구, 진영역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14057,7 +14057,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진영역/">
 										진영역
-										<small>진영삼성아파트 방향</small>
+										<small>서구, 진영삼성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14135,7 +14135,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진전면사무소-1/">
 										진전면사무소
-										<small>오서입구 방향</small>
+										<small>오서시장, 오서입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14147,7 +14147,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진전어린이집/">
 										진전어린이집
-										<small>곡안리 방향</small>
+										<small>진전초등학교, 곡안리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14195,13 +14195,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진해고등학교-1/">
 										진해고등학교
-										<small>여좌마을슈퍼 방향</small>
+										<small>혜성아파트입구, 여좌마을슈퍼 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/진해골프장입구/">
 										진해골프장입구
-										<small>덕산시장 방향</small>
+										<small>덕산동, 덕산시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14213,13 +14213,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진해교회-1/">
 										진해교회
-										<small>장난감도서관 방향</small>
+										<small>진해청소년전당, 장난감도서관 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/진해구-어은입구/">
 										진해구 어은입구
-										<small>STX정문 방향</small>
+										<small>STX조선입구, STX정문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14243,7 +14243,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진해구청-2/">
 										진해구청
-										<small>자은본동 방향</small>
+										<small>마린푸르지오1단지.신광아파트, 녹수아파트, 자은본동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14255,13 +14255,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진해구청-1/">
 										진해구청
-										<small>녹수아파트 방향</small>
+										<small>마린푸르지오1단지.신광아파트, 녹수아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/진해구청-장전주유소/">
 										진해구청.장전주유소
-										<small>상리마을 방향</small>
+										<small>대동다숲.마린푸르지오2단지APT, 상리마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14339,7 +14339,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진해수협-1/">
 										진해수협
-										<small>중앙시장 방향</small>
+										<small>여좌농협, 중앙시장, 중앙시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14357,7 +14357,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진해역/">
 										진해역
-										<small>북원로타리 방향</small>
+										<small>진해교회, 북원로타리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14369,7 +14369,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/진해청소년전당/">
 										진해청소년전당
-										<small>중원로타리 방향</small>
+										<small>진해교회, 장난감도서관, 중원로타리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14398,7 +14398,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/차룡119안전센터-2/">
 										차룡119안전센터
-										<small>동민정공 방향</small>
+										<small>차룡사거리, 동민정공 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14416,7 +14416,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/차룡단지-1/">
 										차룡단지
-										<small>팔룡동입구 방향</small>
+										<small>팔룡동, 팔룡동입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14428,7 +14428,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/차룡사거리-1/">
 										차룡사거리
-										<small>창원종합터미널 방향</small>
+										<small>유남주유소, 창원종합터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14470,13 +14470,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창신대학교입구/">
 										창신대학교입구
-										<small>동서식품 방향</small>
+										<small>청소년복지회관.창신대학, 동서식품 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원-스마트업-파크/">
 										창원 스마트업 파크
-										<small>동민정공 방향</small>
+										<small>차룡사거리, 동민정공 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14500,7 +14500,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원공고-도로교통공단-1/">
 										창원공고.도로교통공단
-										<small>대원현대사원아파트 방향</small>
+										<small>농업기술센터, 대원현대사원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14530,13 +14530,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원기계공구상가/">
 										창원기계공구상가
-										<small>창원공고.도로교통공단 방향</small>
+										<small>자동차검사장, 창원공고.도로교통공단 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원남중/">
 										창원남중
-										<small>상남꿈에그린 방향</small>
+										<small>S&amp;T중공업, 상남꿈에그린 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14590,13 +14590,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원대삼거리/">
 										창원대삼거리
-										<small>사림민원센터 방향</small>
+										<small>성심유치원, 창원의집입구, 사림민원센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원대삼거리-1/">
 										창원대삼거리
-										<small>창원대학교입구 방향</small>
+										<small>우영프라자, 사림동농협, 창원대학교입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14614,31 +14614,31 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원대학교입구/">
 										창원대학교입구
-										<small>창원대삼거리 방향</small>
+										<small>우영프라자, 창원대삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원대학교입구-1/">
 										창원대학교입구
-										<small>용동근린공원 방향</small>
+										<small>창원대학교 종점, 도립미술관, 창원대학교 종점, 경남도청, 용동근린공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원문성대학교/">
 										창원문성대학교
-										<small>운동장사거리 방향</small>
+										<small>창원종합운동장, 운동장사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원문성대학교-1/">
 										창원문성대학교
-										<small>충혼탑 방향</small>
+										<small>충혼탑, 충혼탑 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원병원/">
 										창원병원
-										<small>창원병원 방향</small>
+										<small>국민은행, 창원병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14656,13 +14656,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원병원-3/">
 										창원병원
-										<small>한국가스안전공사 방향</small>
+										<small>대호타워아파트, 한국가스안전공사 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원시립테니스장입구/">
 										창원시립테니스장입구
-										<small>경남도청 방향</small>
+										<small>토월공원, 경남도청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14674,37 +14674,37 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원시청/">
 										창원시청
-										<small>이마트 방향</small>
+										<small>정우상가, 성산아트홀, 이마트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원시청-한서병원/">
 										창원시청.한서병원
-										<small>수협경남금융본부 방향</small>
+										<small>은아아파트, 중앙동, 수협경남금융본부 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원여중/">
 										창원여중
-										<small>극동아파트 방향</small>
+										<small>팔룡동주민센터, 극동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원여중-1/">
 										창원여중
-										<small>윤병원 방향</small>
+										<small>동정동, 윤병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원역-2/">
 										창원역
-										<small>합성동 방향</small>
+										<small>창원역, 소계로터리, 소계종점, 한국전력, 차룡단지, 경남테크노파크, 합성동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원역-3/">
 										창원역
-										<small>창원웨딩의전당 방향</small>
+										<small>서상삼거리, 창원웨딩의전당 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14716,7 +14716,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원역-4/">
 										창원역
-										<small>의창동환승센터 방향</small>
+										<small>창원역, 창원웨딩의전당, 서상삼거리, 의창동환승센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14740,13 +14740,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원웨딩의전당/">
 										창원웨딩의전당
-										<small>창원역 방향</small>
+										<small>창원역, 창원역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원웨딩의전당-1/">
 										창원웨딩의전당
-										<small>극동아파트 방향</small>
+										<small>팔룡동주민센터, 팔룡동, 극동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14758,25 +14758,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원의집입구-1/">
 										창원의집입구
-										<small>청룡길 방향</small>
+										<small>창원대삼거리, 성심유치원, 청룡길 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원종합운동장/">
 										창원종합운동장
-										<small>트리비앙아파트 방향</small>
+										<small>만남의광장, 트리비앙아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원종합터미널/">
 										창원종합터미널
-										<small>동서식품 방향</small>
+										<small>종합터미널, 창원 스마트업 파크, 팔룡가구거리, 화신케미컬, 차룡사거리, 동서식품 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원종합터미널-1/">
 										창원종합터미널
-										<small>지귀상가 방향</small>
+										<small>창원기계공구상가, 창원공고.도로교통공단, 지귀상가 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14800,7 +14800,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원중부경찰서/">
 										창원중부경찰서
-										<small>수협경남금융본부 방향</small>
+										<small>은아아파트, 수협경남금융본부 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14824,7 +14824,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원중앙역-1/">
 										창원중앙역
-										<small>용동근린공원 방향</small>
+										<small>길상사입구, 용동근린공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14860,13 +14860,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원축구센타-법원/">
 										창원축구센타.법원
-										<small>경남도청 방향</small>
+										<small>검찰청, 경남도청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/창원축구센타-법원-1/">
 										창원축구센타.법원
-										<small>사파동성아파트 방향</small>
+										<small>사파동, 사파동성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14920,7 +14920,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창원호텔/">
 										창원호텔
-										<small>창원병원 방향</small>
+										<small>중앙체육공원, 창원병원, 창원병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -14938,7 +14938,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/창의탑-1/">
 										창의탑
-										<small>신기마을입구 방향</small>
+										<small>진동, 진동환승센타(종점), 신기마을입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15004,7 +15004,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/천자봉공원묘원/">
 										천자봉공원묘원
-										<small>웅천동 방향</small>
+										<small>서중소류지, 웅천동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15022,7 +15022,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/천주암-1/">
 										천주암
-										<small>소계종점 방향</small>
+										<small>동정동갓골, 소계종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15070,19 +15070,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/청량산터널앞/">
 										청량산터널앞
-										<small>우산마을 방향</small>
+										<small>국립마산병원, 우산마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/청량산터널앞-1/">
 										청량산터널앞
-										<small>한국철강 방향</small>
+										<small>월영아파트종점, 한국철강 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/청룡길/">
 										청룡길
-										<small>경남도청 방향</small>
+										<small>도청사거리, 경남도청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15112,19 +15112,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/청아병원/">
 										청아병원
-										<small>장미아파트 방향</small>
+										<small>내서중학교, 장미아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/청아병원-1/">
 										청아병원
-										<small>농산물도매시장입구 방향</small>
+										<small>동신아파트, 농산물도매시장입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/청안해오름/">
 										청안해오름
-										<small>웅동농협앞 방향</small>
+										<small>내곡마을, 웅동농협앞 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15160,7 +15160,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/초소/">
 										초소
-										<small>명촌마을 방향</small>
+										<small>초소, 명촌마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15196,7 +15196,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/충혼탑-2/">
 										충혼탑
-										<small>대원성원아파트 방향</small>
+										<small>삼동, 목련아파트, 대원성원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15339,7 +15339,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/코오롱아파트/">
 										코오롱아파트
-										<small>호계중학교 방향</small>
+										<small>호계농협, 호계중학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15356,13 +15356,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/타워맨션/">
 										타워맨션
-										<small>고속버스터미널 방향</small>
+										<small>한일로타리, 정우맨션, 고속버스터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/타워맨션-1/">
 										타워맨션
-										<small>양덕1동주민센타 방향</small>
+										<small>한일타운, 양덕1동주민센타 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15386,7 +15386,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/태광주유소/">
 										태광주유소
-										<small>오성아파트 방향</small>
+										<small>서상삼거리, 오성아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15416,7 +15416,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/태백치안센터-1/">
 										태백치안센터
-										<small>중앙초등학교 방향</small>
+										<small>중초삼거리, 중앙초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15440,7 +15440,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/태화기계/">
 										태화기계
-										<small>성주사역 방향</small>
+										<small>성주사역, 성주사역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15464,7 +15464,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/토월공원-1/">
 										토월공원
-										<small>경남도의회 방향</small>
+										<small>경남도청, 경남도의회 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15500,13 +15500,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/트리비앙아파트/">
 										트리비앙아파트
-										<small>명서동허앤리병원 방향</small>
+										<small>노블파크아파트, 명서동허앤리병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/트리비앙아파트-1/">
 										트리비앙아파트
-										<small>창원시청.한서병원 방향</small>
+										<small>중앙고등학교, 창원시청.한서병원 방향</small>
 									</a>
 								</li>
 													</ul>
@@ -15517,7 +15517,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/파티마병원/">
 										파티마병원
-										<small>창원공고 방향</small>
+										<small>창원공고.도로교통공단, 파티마병원, 창원공고 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15565,13 +15565,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/팔룡동-1/">
 										팔룡동
-										<small>창원웨딩의전당 방향</small>
+										<small>팔룡동주민센터, 창원웨딩의전당 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/팔룡동입구/">
 										팔룡동입구
-										<small>한국전력 방향</small>
+										<small>경남테크노파크, 소계종점, 한국전력 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15583,7 +15583,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/팔룡동주민센터/">
 										팔룡동주민센터
-										<small>극동아파트 방향</small>
+										<small>창원웨딩의전당, 팔룡동, 극동아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15613,7 +15613,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/팔룡중학교-1/">
 										팔룡중학교
-										<small>중앙정밀 방향</small>
+										<small>팔룡어울림운동장, 중앙정밀 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15649,7 +15649,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/평성마을/">
 										평성마을
-										<small>곰티고개 방향</small>
+										<small>안성새터마을, 곰티고개 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15667,13 +15667,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/평성종점/">
 										평성종점
-										<small>평성사거리 방향</small>
+										<small>신우타워, 평성사거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/평성종점-1/">
 										평성종점
-										<small>평성종점 방향</small>
+										<small>안곡마을, 평성종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15769,7 +15769,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/풍호동주민센터/">
 										풍호동주민센터
-										<small>진해구청 방향</small>
+										<small>풍호동사거리, 마린푸르지오1단지.신광아파트, 진해구청.장전주유소, 진해구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15781,13 +15781,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/풍호동평화마을-1/">
 										풍호동평화마을
-										<small>마린푸르지오1단지.신광아파트 방향</small>
+										<small>장천동.이순신리더쉽국제센터, 마린푸르지오1단지.신광아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/프리빌리지2차아파트/">
 										프리빌리지2차아파트
-										<small>국방기술품질원 방향</small>
+										<small>한화테크윈 제2사업장, 국방기술품질원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15828,7 +15828,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/하수도사업소/">
 										하수도사업소
-										<small>덕동공영차고지 방향</small>
+										<small>유산마을입구, 덕동공영차고지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15918,25 +15918,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한국전기연구원-1/">
 										한국전기연구원
-										<small>프리빌리지2차아파트 방향</small>
+										<small>삼정자내리마을, 프리빌리지2차아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한국전력/">
 										한국전력
-										<small>구암동 방향</small>
+										<small>KT동마산지점, 마산시외버스터미널, 구암동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한국전력-1/">
 										한국전력
-										<small>팔룡동입구 방향</small>
+										<small>창원역, 창원역, 경남테크노파크, 팔룡동입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한국전력공사/">
 										한국전력공사
-										<small>은아아파트후문 방향</small>
+										<small>창원중부경찰서, 은아아파트후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15954,7 +15954,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한국철강-2/">
 										한국철강
-										<small>세원셀론텍.영흥철강 방향</small>
+										<small>창곡입구, 세원셀론텍.영흥철강 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15966,7 +15966,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한국철강/">
 										한국철강
-										<small>해운중학교 방향</small>
+										<small>해운중학교종점, 해운중학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -15984,7 +15984,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한국폴리텍7대학-1/">
 										한국폴리텍7대학
-										<small>창원병원 방향</small>
+										<small>창원병원, 창원병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16026,13 +16026,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한마음아파트-1/">
 										한마음아파트
-										<small>금호온천 방향</small>
+										<small>유니시티2단지, 소답동, 금호온천 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한백자동차학원/">
 										한백자동차학원
-										<small>오산마을 방향</small>
+										<small>오산, 오산마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16074,7 +16074,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한우리아파트/">
 										한우리아파트
-										<small>원계 방향</small>
+										<small>롯데마트, 원계 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16086,19 +16086,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한우아파트/">
 										한우아파트
-										<small>마산여고 방향</small>
+										<small>완월동, 완월초등학교, 마산여고 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한우아파트-1/">
 										한우아파트
-										<small>전원아파트 방향</small>
+										<small>약수터, 전원아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한일로타리/">
 										한일로타리
-										<small>메트로시티2단지 방향</small>
+										<small>고속버스터미널, 메트로시티2단지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16110,7 +16110,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한일타운/">
 										한일타운
-										<small>마산역 방향</small>
+										<small>역전치안센터, 마산역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16152,13 +16152,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한주아파트-2/">
 										한주아파트
-										<small>내서우체국 방향</small>
+										<small>중리역, 내서우체국 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한주아파트입구/">
 										한주아파트입구
-										<small>현대아파트 방향</small>
+										<small>중리삼거리, 현대아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16182,13 +16182,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/한화디펜스-1/">
 										한화디펜스
-										<small>롯데마트 방향</small>
+										<small>성주동종점, 성주동종점(213), 롯데마트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/한화테크윈-제2사업장/">
 										한화테크윈 제2사업장
-										<small>불모산 방향</small>
+										<small>한국전기연구원, 불모산 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16248,7 +16248,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/합계마을-1/">
 										합계마을
-										<small>수치 방향</small>
+										<small>수치, 수치마을, 수치 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16266,13 +16266,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/합성동/">
 										합성동
-										<small>마산시외버스터미널 방향</small>
+										<small>마산시외버스터미널, 마산시외버스터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/합성동-1/">
 										합성동
-										<small>창원역 방향</small>
+										<small>덕재.롯데캐슬, 창원역 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16344,7 +16344,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/합포주유소/">
 										합포주유소
-										<small>원불교교구청 방향</small>
+										<small>북마산가구거리, 원불교교구청 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16416,7 +16416,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/해양극장/">
 										해양극장
-										<small>중앙시장 방향</small>
+										<small>중앙시장, 벚꽃상가, 중앙시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16428,7 +16428,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/해운동/">
 										해운동
-										<small>해운초등학교 방향</small>
+										<small>경남대남부터미널종점, 남부터미널, 해운초등학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16446,19 +16446,19 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/해운중학교-1/">
 										해운중학교
-										<small>해운중학교종점 방향</small>
+										<small>한국철강, 해운중학교종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/해운중학교종점/">
 										해운중학교종점
-										<small>남부터미널 방향</small>
+										<small>해운동, 남부터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/해운중학교종점-1/">
 										해운중학교종점
-										<small>해운중학교종점 방향</small>
+										<small>한국철강, 해운중학교, 해운중학교종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16470,7 +16470,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/해운초등학교-1/">
 										해운초등학교
-										<small>남부터미널 방향</small>
+										<small>경남대남부터미널종점, 해운동, 남부터미널 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16482,7 +16482,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/해인로즈빌-1/">
 										해인로즈빌
-										<small>용원휴요양병원 방향</small>
+										<small>공지곡, 용원휴요양병원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16518,7 +16518,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/행암동종점/">
 										행암동종점
-										<small>예비군관리대 방향</small>
+										<small>행암동, 예비군관리대 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16578,7 +16578,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/현대아파트/">
 										현대아파트
-										<small>한주아파트 방향</small>
+										<small>중리삼거리, 한주아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16608,7 +16608,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/현도-1/">
 										현도
-										<small>내산 방향</small>
+										<small>오곡, 내산 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16644,7 +16644,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/현동초등학교/">
 										현동초등학교
-										<small>덕동공영차고지 방향</small>
+										<small>묘촌입구, 덕동공영차고지 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16728,25 +16728,25 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/호계중학교/">
 										호계중학교
-										<small>코오롱아파트 방향</small>
+										<small>호계, 코오롱아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/호반-리젠시빌란트/">
 										호반.리젠시빌란트
-										<small>세스페데스공원 방향</small>
+										<small>시티프라디움2차, 세스페데스공원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/호반베르디움/">
 										호반베르디움
-										<small>와성마을 방향</small>
+										<small>사도마을, 와성마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/호산나노인복지센터/">
 										호산나노인복지센터
-										<small>STX아파트 방향</small>
+										<small>평발마을, STX아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16842,7 +16842,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/화인아파트-1/">
 										화인아파트
-										<small>월영라이프아파트 방향</small>
+										<small>율곡, 밤밭고개, 밤밭고개(256), 월영라이프아파트 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16866,7 +16866,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/화천리-1/">
 										화천리
-										<small>화산마을입구 방향</small>
+										<small>외감주유소, 화산마을입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16902,7 +16902,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/회동-1/">
 										회동
-										<small>진전중학교 방향</small>
+										<small>호산마을, 진전중학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -16932,13 +16932,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/회원1동-1/">
 										회원1동
-										<small>삼성생명 방향</small>
+										<small>버스회관, 삼성생명 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/회원신협/">
 										회원신협
-										<small>경남은행연수원 방향</small>
+										<small>삼학사, 경남은행연수원 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17004,7 +17004,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/휴먼시아2단지입구/">
 										휴먼시아2단지입구
-										<small>봉곡중학교 방향</small>
+										<small>봉곡상가, 봉곡중학교 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17016,13 +17016,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/흥한웰가아파트-1/">
 										흥한웰가아파트
-										<small>서상삼거리 방향</small>
+										<small>북동공설시장, 창원여중, 오성아파트, 서상삼거리 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/힐스테이트1차/">
 										힐스테이트1차
-										<small>감계휴먼빌 방향</small>
+										<small>내감, 감계휴먼빌 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17063,7 +17063,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/gs마트/">
 										GS마트
-										<small>경남대남부터미널종점 방향</small>
+										<small>경남대학교, 경남대남부터미널종점 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17081,7 +17081,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/kpe/">
 										KPE
-										<small>중앙정밀 방향</small>
+										<small>팔룡어울림운동장, 동우기계공업, 중앙정밀 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17111,7 +17111,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/kt서마산지점-2/">
 										KT서마산지점
-										<small>어시장 방향</small>
+										<small>어시장, 어시장, 어시장 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17231,7 +17231,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/stx아파트-1/">
 										STX아파트
-										<small>호산나노인복지센터 방향</small>
+										<small>월남마을, 호산나노인복지센터 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17249,7 +17249,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/stx정문/">
 										STX정문
-										<small>죽곡입구 방향</small>
+										<small>STX북문, STX조선입구, 죽곡입구 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17261,13 +17261,13 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/stx조선입구/">
 										STX조선입구
-										<small>상리마을 방향</small>
+										<small>만남의광장, 상리마을 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
 									<a href="/창원시/정류소/stx조선입구-1/">
 										STX조선입구
-										<small>어은동 방향</small>
+										<small>진해구 어은입구, 어은동 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17291,7 +17291,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/stx칸1차아파트후문-1/">
 										STX칸1차아파트후문
-										<small>STX칸1차아파트후문 방향</small>
+										<small>신음, STX칸1차아파트후문 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
@@ -17303,7 +17303,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/stx칸2차아파트-1/">
 										STX칸2차아파트
-										<small>무동입구 방향</small>
+										<small>휴먼빌3차아파트, 무동입구 방향</small>
 									</a>
 								</li>
 													</ul>
@@ -17326,7 +17326,7 @@
 															<li class="station-box">
 									<a href="/창원시/정류소/3-15아트센타/">
 										3.15아트센타
-										<small>메트로시티석전 방향</small>
+										<small>석전동, 경남은행본점, 메트로시티석전 방향</small>
 									</a>
 								</li>
 															<li class="station-box">
