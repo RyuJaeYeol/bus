@@ -3,14 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1.0">
-		<title>창원 시내버스 창원역 실시간 도착정보 - 창원시내버스</title>
+		<title>창원 시내버스 장미공원 정류소(가음정사거리 방향) 실시간 버스 도착정보 - 창원시내버스</title>
 	<meta name="author" content="yohan1002@gmail.com">
-	<meta name="keywords" content="창원역,창원역 가는 길,창원역 가는 시내버스,창원역 시내버스,창원역 시네버스">
-	<meta name="description" content="창원 시내버스 창원역 의창동환승센터 방향 버스노선 실시간 도착정보 즐겨찾기 새로고침 8 71 100 102 108 109 111 113 115 122 210 213 703 710 757 800">
+	<meta name="keywords" content="장미공원,장미공원 가는 길,장미공원 가는 시내버스,장미공원 시내버스,장미공원 시네버스">
+	<meta name="description" content="창원 장미공원 정류소 가음정본동, 가음정사거리 방향 실시간 버스도착 시간 정보 109번 113번 151번 155번 155-1번 213번 503번 703번 757번">
 	<meta name="referrer" content="always">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="shortcut icon" type="image/x-icon" href="https://cwbus.yohan1002.com/favicon.ico"/>
-	<link rel="canonical" href="https://cwbus.yohan1002.com/창원시/정류소/창원역-4/"/>
+	<link rel="canonical" href="https://cwbus.yohan1002.com/창원시/정류소/장미공원/"/>
 		<link href="//www.googletagmanager.com" rel="dns-prefetch"/>	
 		<link href="//pagead2.googlesyndication.com" rel="dns-prefetch"/>
 	<link href="//googleads.g.doubleclick.net" rel="dns-prefetch"/>
@@ -29,21 +29,22 @@
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 
-		
+							<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=40563640974538c7722ebb33897ddb7a"></script>
+			
 	
 	<meta property="og:type" content="article">
 	<meta property="og:site_name" content="창원시내버스">
-	<meta property="og:title" content="창원 시내버스 창원역 실시간 도착정보">
-	<meta property="og:description" content="창원 시내버스 창원역 의창동환승센터 방향 버스노선 실시간 도착정보 즐겨찾기 새로고침 8 71 100 102 108 109 111 113 115 122 210 213 703 710 757 800">
-	<meta property="og:url" content="https://cwbus.yohan1002.com/창원시/정류소/창원역-4/"/>
+	<meta property="og:title" content="창원 시내버스 장미공원 정류소(가음정사거리 방향) 실시간 버스 도착정보">
+	<meta property="og:description" content="창원 장미공원 정류소 가음정본동, 가음정사거리 방향 실시간 버스도착 시간 정보 109번 113번 151번 155번 155-1번 213번 503번 703번 757번">
+	<meta property="og:url" content="https://cwbus.yohan1002.com/창원시/정류소/장미공원/"/>
 	<meta property="og:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
 	
 
 	
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@">
-	<meta name="twitter:title" content="창원 시내버스 창원역 실시간 도착정보">
-	<meta name="twitter:description" content="창원 시내버스 창원역 의창동환승센터 방향 버스노선 실시간 도착정보 즐겨찾기 새로고침 8 71 100 102 108 109 111 113 115 122 210 213 703 710 757 800">
+	<meta name="twitter:title" content="창원 시내버스 장미공원 정류소(가음정사거리 방향) 실시간 버스 도착정보">
+	<meta name="twitter:description" content="창원 장미공원 정류소 가음정본동, 가음정사거리 방향 실시간 버스도착 시간 정보 109번 113번 151번 155번 155-1번 213번 503번 703번 757번">
 	<meta property="twitter:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
 	
 
@@ -54,7 +55,7 @@
 						
 	<link rel="alternate" type="application/rss+xml" title="창원시내버스" href="https://cwbus.yohan1002.com/atom.xml"/>
 
-			<link href="/res/css/min/81bf7b3b628a318e28769813ed8b7d79.css" type="text/css" rel="stylesheet" />
+			<link href="/res/css/min/c6fae98662b9a23a6d5351b914f639c7.css" type="text/css" rel="stylesheet" />
 
 	
 			
@@ -84,26 +85,29 @@
 	<article id="article" class="article hentry">
 		<!--
 		<div class="title">
-			<h2 class="entry-title">창원 시내버스 창원역 실시간 도착정보</h2>
-						<time class="published hide" datetime="2020-09-08 11:37:48">2020.09.08. 11:37</time>
-			<time class="updated hide" datetime="2020-09-08 11:41:13">2020.09.08. 11:41</time>
+			<h2 class="entry-title">창원 시내버스 장미공원 정류소(가음정사거리 방향) 실시간 버스 도착정보</h2>
+						<time class="published hide" datetime="2020-09-08 11:37:20">2020.09.08. 11:37</time>
+			<time class="updated hide" datetime="2020-10-07 10:47:19">2020.10.07. 10:47</time>
 			<span class="vcard author hide"><span class="fn">yohan1002@gmail.com</span></span>
 		</div>
 		-->
 		<div class="markdown-body entry-content"><section class="main">
 			
 	<input type="hidden" id="cityCode" name="cityCode" value="38010" />
-	<input type="hidden" id="stationCode" name="stationCode" value="CWB379000422" />
-	<input type="hidden" id="stationName" name="stationName" value="창원역" />
-	<input type="hidden" id="stationDirection" name="stationDirection" value="창원역, 창원웨딩의전당, 서상삼거리, 의창동환승센터 방향" />
-	<input type="hidden" id="stationLink" name="stationLink" value="/창원시/정류소/창원역-4/" />
+	<input type="hidden" id="stationCode" name="stationCode" value="CWB379001123" />
+	<input type="hidden" id="stationName" name="stationName" value="장미공원" />
+	<input type="hidden" id="stationDirection" name="stationDirection" value="가음정사거리 방향" />
+	<input type="hidden" id="stationLink" name="stationLink" value="/창원시/정류소/장미공원/" />
+
+	<input type="hidden" id="stationLat" name="stationLat" value="35.20736946" />
+	<input type="hidden" id="stationLng" name="stationLng" value="128.6932985" />
 
 	<div class="tabs">
 		<div class='tabs-menu'>
 	<div class='ttl'>
 		<header>
-			<h2>창원 시내버스 창원역</h2>
-							<h4>의창동환승센터 방향</h4>
+			<h2>창원 시내버스 장미공원</h2>
+							<h4>가음정사거리 방향</h4>
 			
 			<div class='actions'>
 									<button type="button" id="icon-button-favorite" class="icon-button favorite">&nbsp;</button>
@@ -119,49 +123,14 @@
 	</div>
 </div>		<div class="tabs-content">
 			<div class="actions">
-				<button type="button" id="refresh">새로고침</button>
+									<button type="button" id="btnSearchingLocation"  class="mapSearch">정류소 위치확인</button>
+								<button type="button" id="refresh">새로고침</button>
 			</div>
 
 			<ul id="routeNumbers" class="clearfix list">
-									<li class="item routeNo" data-no="CWB379000080">
-						<a class="box-link" href="/창원시/버스/8/" target="_blank" title="창원시 시내버스 8번 노선안내">
-							8
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
-									<li class="item routeNo" data-no="CWB379000710">
-						<a class="box-link" href="/창원시/버스/71/" target="_blank" title="창원시 시내버스 71번 노선안내">
-							71
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
-									<li class="item routeNo" data-no="CWB379001000">
-						<a class="box-link" href="/창원시/버스/100/" target="_blank" title="창원시 시내버스 100번 노선안내">
-							100
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
-									<li class="item routeNo" data-no="CWB379001020">
-						<a class="box-link" href="/창원시/버스/102/" target="_blank" title="창원시 시내버스 102번 노선안내">
-							102
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
-									<li class="item routeNo" data-no="CWB379001080">
-						<a class="box-link" href="/창원시/버스/108/" target="_blank" title="창원시 시내버스 108번 노선안내">
-							108
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
 									<li class="item routeNo" data-no="CWB379001090">
 						<a class="box-link" href="/창원시/버스/109/" target="_blank" title="창원시 시내버스 109번 노선안내">
 							109
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
-									<li class="item routeNo" data-no="CWB379001110">
-						<a class="box-link" href="/창원시/버스/111/" target="_blank" title="창원시 시내버스 111번 노선안내">
-							111
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
@@ -171,21 +140,21 @@
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
-									<li class="item routeNo" data-no="CWB379001150">
-						<a class="box-link" href="/창원시/버스/115/" target="_blank" title="창원시 시내버스 115번 노선안내">
-							115
+									<li class="item routeNo" data-no="CWB379001510">
+						<a class="box-link" href="/창원시/버스/151/" target="_blank" title="창원시 시내버스 151번 노선안내">
+							151
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
-									<li class="item routeNo" data-no="CWB379001220">
-						<a class="box-link" href="/창원시/버스/122/" target="_blank" title="창원시 시내버스 122번 노선안내">
-							122
+									<li class="item routeNo" data-no="CWB379001550">
+						<a class="box-link" href="/창원시/버스/155/" target="_blank" title="창원시 시내버스 155번 노선안내">
+							155
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
-									<li class="item routeNo" data-no="CWB379002100">
-						<a class="box-link" href="/창원시/버스/210/" target="_blank" title="창원시 시내버스 210번 노선안내">
-							210
+									<li class="item routeNo" data-no="CWB379001551">
+						<a class="box-link" href="/창원시/버스/155-1/" target="_blank" title="창원시 시내버스 155-1번 노선안내">
+							155-1
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
@@ -195,27 +164,21 @@
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
+									<li class="item routeNo" data-no="CWB379005039">
+						<a class="box-link" href="/창원시/버스/503-1/" target="_blank" title="창원시 시내버스 503번 노선안내">
+							503
+							<small class="routeTp">&nbsp;</small>
+						</a>
+					</li>
 									<li class="item routeNo" data-no="CWB379007030">
 						<a class="box-link" href="/창원시/버스/703/" target="_blank" title="창원시 시내버스 703번 노선안내">
 							703
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
-									<li class="item routeNo" data-no="CWB379007100">
-						<a class="box-link" href="/창원시/버스/710/" target="_blank" title="창원시 시내버스 710번 노선안내">
-							710
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
 									<li class="item routeNo" data-no="CWB379007570">
 						<a class="box-link" href="/창원시/버스/757/" target="_blank" title="창원시 시내버스 757번 노선안내">
 							757
-							<small class="routeTp">&nbsp;</small>
-						</a>
-					</li>
-									<li class="item routeNo" data-no="CWB379008000">
-						<a class="box-link" href="/창원시/버스/800/" target="_blank" title="창원시 시내버스 800번 노선안내">
-							800
 							<small class="routeTp">&nbsp;</small>
 						</a>
 					</li>
@@ -299,6 +262,6 @@
 </footer>
 
 
-<script src="/res/js/min/0db15835e21b661374e26dbb660dbc16.js" async="true" type="text/javascript"></script>
+<script src="/res/js/min/2d8234813a837d36bc65b598d36f4998.js" async="true" type="text/javascript"></script>
 </body>
 </html>

@@ -3,10 +3,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1.0">
-		<title>창원 시내버스 삼포 실시간 도착정보 - 창원시내버스</title>
+		<title>창원 시내버스 삼포 정류소(삼포 방향) 실시간 버스 도착정보 - 창원시내버스</title>
 	<meta name="author" content="yohan1002@gmail.com">
 	<meta name="keywords" content="삼포,삼포 가는 길,삼포 가는 시내버스,삼포 시내버스,삼포 시네버스">
-	<meta name="description" content="창원 시내버스 삼포 삼포 방향 버스노선 실시간 도착정보 즐겨찾기 새로고침 306 306-1 350">
+	<meta name="description" content="창원 삼포 정류소 삼포입구, 삼포 방향 실시간 버스도착 시간 정보 306번 306-1번 350번">
 	<meta name="referrer" content="always">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="shortcut icon" type="image/x-icon" href="https://cwbus.yohan1002.com/favicon.ico"/>
@@ -29,12 +29,13 @@
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 
-		
+							<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=40563640974538c7722ebb33897ddb7a"></script>
+			
 	
 	<meta property="og:type" content="article">
 	<meta property="og:site_name" content="창원시내버스">
-	<meta property="og:title" content="창원 시내버스 삼포 실시간 도착정보">
-	<meta property="og:description" content="창원 시내버스 삼포 삼포 방향 버스노선 실시간 도착정보 즐겨찾기 새로고침 306 306-1 350">
+	<meta property="og:title" content="창원 시내버스 삼포 정류소(삼포 방향) 실시간 버스 도착정보">
+	<meta property="og:description" content="창원 삼포 정류소 삼포입구, 삼포 방향 실시간 버스도착 시간 정보 306번 306-1번 350번">
 	<meta property="og:url" content="https://cwbus.yohan1002.com/창원시/정류소/삼포/"/>
 	<meta property="og:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
 	
@@ -42,8 +43,8 @@
 	
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@">
-	<meta name="twitter:title" content="창원 시내버스 삼포 실시간 도착정보">
-	<meta name="twitter:description" content="창원 시내버스 삼포 삼포 방향 버스노선 실시간 도착정보 즐겨찾기 새로고침 306 306-1 350">
+	<meta name="twitter:title" content="창원 시내버스 삼포 정류소(삼포 방향) 실시간 버스 도착정보">
+	<meta name="twitter:description" content="창원 삼포 정류소 삼포입구, 삼포 방향 실시간 버스도착 시간 정보 306번 306-1번 350번">
 	<meta property="twitter:image" content="https://cwbus.yohan1002.com/res/img/icon/icon.png">
 	
 
@@ -54,7 +55,7 @@
 						
 	<link rel="alternate" type="application/rss+xml" title="창원시내버스" href="https://cwbus.yohan1002.com/atom.xml"/>
 
-			<link href="/res/css/min/81bf7b3b628a318e28769813ed8b7d79.css" type="text/css" rel="stylesheet" />
+			<link href="/res/css/min/c6fae98662b9a23a6d5351b914f639c7.css" type="text/css" rel="stylesheet" />
 
 	
 			
@@ -84,9 +85,9 @@
 	<article id="article" class="article hentry">
 		<!--
 		<div class="title">
-			<h2 class="entry-title">창원 시내버스 삼포 실시간 도착정보</h2>
+			<h2 class="entry-title">창원 시내버스 삼포 정류소(삼포 방향) 실시간 버스 도착정보</h2>
 						<time class="published hide" datetime="2020-09-08 11:37:33">2020.09.08. 11:37</time>
-			<time class="updated hide" datetime="2020-09-08 11:40:58">2020.09.08. 11:40</time>
+			<time class="updated hide" datetime="2020-10-07 11:09:56">2020.10.07. 11:09</time>
 			<span class="vcard author hide"><span class="fn">yohan1002@gmail.com</span></span>
 		</div>
 		-->
@@ -95,8 +96,11 @@
 	<input type="hidden" id="cityCode" name="cityCode" value="38010" />
 	<input type="hidden" id="stationCode" name="stationCode" value="CWB379002506" />
 	<input type="hidden" id="stationName" name="stationName" value="삼포" />
-	<input type="hidden" id="stationDirection" name="stationDirection" value="삼포입구, 삼포 방향" />
+	<input type="hidden" id="stationDirection" name="stationDirection" value="삼포 방향" />
 	<input type="hidden" id="stationLink" name="stationLink" value="/창원시/정류소/삼포/" />
+
+	<input type="hidden" id="stationLat" name="stationLat" value="35.09541171" />
+	<input type="hidden" id="stationLng" name="stationLng" value="128.7281015" />
 
 	<div class="tabs">
 		<div class='tabs-menu'>
@@ -119,7 +123,8 @@
 	</div>
 </div>		<div class="tabs-content">
 			<div class="actions">
-				<button type="button" id="refresh">새로고침</button>
+									<button type="button" id="btnSearchingLocation"  class="mapSearch">정류소 위치확인</button>
+								<button type="button" id="refresh">새로고침</button>
 			</div>
 
 			<ul id="routeNumbers" class="clearfix list">
@@ -221,6 +226,6 @@
 </footer>
 
 
-<script src="/res/js/min/0db15835e21b661374e26dbb660dbc16.js" async="true" type="text/javascript"></script>
+<script src="/res/js/min/2d8234813a837d36bc65b598d36f4998.js" async="true" type="text/javascript"></script>
 </body>
 </html>
